@@ -1,0 +1,167 @@
+#!/usr/bin/python
+
+# Copyright 2015 Victorious Inc. All Rights Reserved.
+
+"""
+Updates APKs on Google Play with new versions.
+
+Requires that the Google API Python Client is installed on the system.  On Mac OS X, this can be
+installed by running: easy_install --upgrade google-api-python-client
+
+Client IDs and secrets should be retrieved from the API Access tab in the Google APIs Console at:
+http://code.google.com/apis/console
+
+See also: https://docs.google.com/a/getvictorious.com/document/d/1aZbvsVYMZXz7fGSRwh9EeAvvPDrkvjmc17MQo0fyXNk/edit#heading=h.bwdsrppe8e3b
+
+For more information on the Google Play Publishing API, see:
+https://developers.google.com/android-publisher/#publishing
+https://github.com/google/google-api-python-client
+https://github.com/googlesamples/android-play-publisher-api/tree/master/v2/python (especially basic_upload_apks.py and upload_apks_rollout.py)
+https://developers.google.com/android-publisher/authorization
+"""
+
+import httplib2
+import os
+import sys
+from googleapiclient import discovery
+from oauth2client import client
+from oauth2client import file
+from oauth2client import tools
+
+
+_CONFIG_FILENAME = 'google_play_update_config.txt'
+_RECENT_CHANGES_TEXT_FILENAME = 'google_play_update_text.txt'
+_OAUTH_NAME = 'androidpublisher'
+_OAUTH_SCOPE = 'https://www.googleapis.com/auth/androidpublisher'
+_DEFAULT_GOOGLE_PLAY_TRACK = 'production'
+
+
+def _read_configs():
+    """Reads configuration from the config file.
+
+    Returns:
+        A dict mapping config key strings to a tuple of strings consisting of package name,
+        client ID, and client secret.
+    """
+    configs = {}
+    with open(_CONFIG_FILENAME, 'r') as config_file:
+        for line in config_file:
+            tokens = line.split()
+            num_tokens = len(tokens)
+            if num_tokens == 4:
+                configs[tokens[0]] = (tokens[1], tokens[2], tokens[3], _DEFAULT_GOOGLE_PLAY_TRACK)
+            elif num_tokens == 5:
+                configs[tokens[0]] = (tokens[1], tokens[2], tokens[3], tokens[4])
+    return configs
+
+
+def _read_changes_text():
+    """Reads recent changes text from file.
+
+    Returns:
+        A string of the changes text.
+    """
+    with open(_RECENT_CHANGES_TEXT_FILENAME, 'r') as text_file:
+        text = text_file.read()
+    return text
+
+
+def _upload_apk(
+        apk_filepath, package_name, client_id, client_secret, google_play_track, recent_changes):
+    """Uploads an APK using the Google Play Publishing API.
+
+    Args:
+        apk_filepath: Path to APK file.
+        package_name: Package name of the app.
+        client_id: Client ID associated with the Google Play account.
+        client_secret: Client secret associated with the Google Play account.
+    """
+    storage_filename = '%s.dat' % _OAUTH_NAME
+    try:
+        flags = tools.argparser.parse_args(args=[])
+        flow = client.OAuth2WebServerFlow(client_id, client_secret, _OAUTH_SCOPE)
+
+        storage = file.Storage(storage_filename)
+        credentials = storage.get()
+        if credentials is None or credentials.invalid:
+            credentials = tools.run_flow(flow, storage, flags)
+        http = credentials.authorize(http=httplib2.Http())
+
+        service = discovery.build(_OAUTH_NAME, 'v2', http=http)
+
+        edit_request = service.edits().insert(body={}, packageName=package_name)
+        result = edit_request.execute()
+        edit_id = result['id']
+
+        apk_response = service.edits().apks().upload(
+                editId=edit_id, packageName=package_name, media_body=apk_filepath).execute()
+
+        version_code = apk_response['versionCode']
+        service.edits().tracks().update(
+                editId=edit_id, track=google_play_track, packageName=package_name,
+                body={'versionCodes': [version_code]}).execute()
+
+        language = 'en-US'
+        service.edits().apklistings().update(
+                apkVersionCode=version_code, editId=edit_id, language=language,
+                packageName=package_name,
+                body={'language': language, 'recentChanges': recent_changes}).execute()
+
+        service.edits().commit(editId=edit_id, packageName=package_name).execute()
+    finally:
+        if os.path.isfile(storage_filename):
+            print 'Deleting %s' % storage_filename
+            os.remove(storage_filename)
+
+
+def main(argv):
+    if len(argv) < 2:
+        print 'Usage: sudo ./google_play_update.py <apk_file>...'
+        print ''
+        print 'Directory where script is executed must contain a file named '
+        print '"%s" which contains the Whats New text for the update.' % _RECENT_CHANGES_TEXT_FILENAME
+        print ''
+        print 'That directory must also contain a file named '
+        print '"%s" which contains one line for each APK.' % _CONFIG_FILENAME
+        print 'The line must be of the form:'
+        print '<configuration> <package_name> <client_id> <client_secret> (<google_play_track>)'
+        print ''
+        print 'Example if the file "pwnisher.apk" was passed in:'
+        print 'pwnisher com.getvictorious.pwnisher xxx@sel.apps.googleusercontent.com Fjlejro3jio3jrTHISISNOTREAL alpha'
+        sys.exit(1)
+
+    keys_to_files = {}
+    for apk in argv[1:]:
+        filename_tuple = os.path.splitext(os.path.basename(apk))
+        if filename_tuple[1] != '.apk':
+            print 'Failure: %s is not an APK' % apk
+            sys.exit(1)
+        keys_to_files[filename_tuple[0]] = apk
+
+    print 'Reading %s...' % _CONFIG_FILENAME
+    configs = _read_configs()
+    for key in keys_to_files.iterkeys():
+        # Confirm that everything exists.
+        if key not in configs:
+            print 'Failure: %s configuration does not exist in %s' % (key, _CONFIG_FILENAME)
+            sys.exit(1)
+
+    print 'Reading %s...' % _RECENT_CHANGES_TEXT_FILENAME
+    recent_changes = _read_changes_text()
+
+    print 'Uploading APKs...'
+    for key in keys_to_files.iterkeys():
+        config = configs[key]
+        apk_filename = keys_to_files[key]
+
+        print 'Uploading %s...' % apk_filename
+        _upload_apk(apk_filename, config[0], config[1], config[2], config[3], recent_changes)
+        print 'Successfully uploaded %s!' % apk_filename
+
+    print 'Successfully uploaded all APKs!'
+    sys.exit(0)
+
+
+if __name__ == '__main__':
+    main(sys.argv)
+

@@ -1,0 +1,25 @@
+import json
+
+fname = raw_input('Enter file name here:  ')
+handle = open(fname)
+text = handle.read()
+json = json.loads(text)
+
+count = 0
+for i in json['businesses']:
+    name = i['name']
+    rating = i['rating']
+    mobile_url = i['mobile_url']
+    review_count = i['review_count']
+    snippet_text = i['snippet_text']
+    location = i['location']['display_address']
+    count = count + 1
+    print '-------------------- RESTAURANT #',count,'--------------------'
+    print 'RESTAURANT:  ', name
+    print 'RATING:  ', rating
+    print 'URL:  ', mobile_url
+    print 'NUMBER OF REVIEWS:  ', review_count
+    print 'WHAT THEY SAID:  ', snippet_text
+    print '----- LOCATION -----'
+    print location[0]
+    print location[2]

@@ -1,0 +1,38 @@
+# (x,y) = (4,'fred')
+# print y
+#
+# a,b = (99,98)
+# print b
+
+# d =dict()
+# d['montgomery'] = 1
+# d['smith'] = 2
+# for (a,b) in d.items():
+#     print a,b
+
+#
+# c = {'a':10,'b':1,'c':22}
+# tmp = list()
+# for k,v in c.items():
+#     tmp.append ((v,k))
+# print tmp
+#
+# tmp.sort(reverse=True)
+# print tmp
+
+file = raw_input('Enter file name here:  ')
+handle = open(file)
+counts = {}
+for line in handle:
+    words = line.split()
+    for word in words:
+        counts[word] = counts.get(word,0) + 1
+
+lst = list()
+for key,val in counts.items():
+    lst.append((val,key))
+
+lst.sort(reverse=True)
+
+for val,key in lst[:25]:
+    print key,val

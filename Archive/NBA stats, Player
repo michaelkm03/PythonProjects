@@ -1,0 +1,10 @@
+
+import re
+
+Dict = dict()
+file = ('nba stats, player.txt')
+handle = open(file)
+text = handle.read()
+
+i = re.findall('$([^ ]*)',text)
+print i

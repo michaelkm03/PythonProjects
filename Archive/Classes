@@ -1,0 +1,21 @@
+class Myclass:
+    number = 0
+    name = 'noname'
+
+def Main():
+    me = Myclass()
+    me.name = raw_input('What is your name?  ')
+    me.number = raw_input('What is your favorite number?  ')
+
+    friend = Myclass()
+    friend.name = raw_input('What is your name?  ')
+    friend.number = raw_input('What is your favorite number?  ')
+
+    print''
+    print '#####################'
+    print ''
+    print 'Name:  ' + me.name + 'Favorite Number:  ' + str(me.number)
+    print 'Name:  ' + friend.name + 'Favorite Number:  ' + str(friend.number)
+
+if __name__ == '__main__':
+    Main()

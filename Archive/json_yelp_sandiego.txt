@@ -1,0 +1,1012 @@
+{
+    "region": {
+        "span": {
+            "latitude_delta": 0.12098930026743915, 
+            "longitude_delta": 0.24229271000001518
+        }, 
+        "center": {
+            "latitude": 32.753193863514795, 
+            "longitude": -117.15071295
+        }
+    }, 
+    "total": 1296, 
+    "businesses": [
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/lucha-libre-gourmet-taco-shop-san-diego?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 5517, 
+            "name": "Lucha Libre Gourmet Taco Shop", 
+            "rating_img_url_small": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/lucha-libre-gourmet-taco-shop-san-diego?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Mexican", 
+                    "mexican"
+                ]
+            ], 
+            "menu_date_updated": 1441995472, 
+            "phone": "6192968226", 
+            "snippet_text": "OH...MY...GOD... ::using Janet's voice from Friends:: I am SO glad I finally got to try this place out after spending the weekend in SD for the Memorial...", 
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/AFSZY-MXfYHB0t3KlaqzGQ/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/c3X5ZIFzuAXV2mRTNKe_bQ/ms.jpg", 
+            "display_phone": "+1-619-296-8226", 
+            "rating_img_url_large": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "menu_provider": "single_platform", 
+            "id": "lucha-libre-gourmet-taco-shop-san-diego", 
+            "is_closed": false, 
+            "location": {
+                "city": "San Diego", 
+                "display_address": [
+                    "1810 W Washington St", 
+                    "Mission Hills", 
+                    "San Diego, CA 92110"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Mission Hills", 
+                    "Middletown"
+                ], 
+                "postal_code": "92110", 
+                "country_code": "US", 
+                "address": [
+                    "1810 W Washington St"
+                ], 
+                "coordinate": {
+                    "latitude": 32.7431065, 
+                    "longitude": -117.1817438
+                }, 
+                "state_code": "CA"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/las-cuatro-milpas-san-diego-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 1241, 
+            "name": "Las Cuatro Milpas", 
+            "rating_img_url_small": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/las-cuatro-milpas-san-diego-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Mexican", 
+                    "mexican"
+                ], 
+                [
+                    "Breakfast & Brunch", 
+                    "breakfast_brunch"
+                ]
+            ], 
+            "menu_date_updated": 1447866911, 
+            "phone": "6192344460", 
+            "snippet_text": "In the hunt for breakfast while passing time waiting for our Barrio adventure we find Las Cuatro Milpas (Peter C found this place via the trusty Yelp...", 
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/teO3PvcYWfAiMQuj73wqgQ/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/9um1WrCL6kgsinxfLhmWIw/ms.jpg", 
+            "display_phone": "+1-619-234-4460", 
+            "rating_img_url_large": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "menu_provider": "single_platform", 
+            "id": "las-cuatro-milpas-san-diego-2", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Crosby St & Beardsley St", 
+                "city": "San Diego", 
+                "display_address": [
+                    "1875 Logan  Ave", 
+                    "Barrio Logan", 
+                    "San Diego, CA 92113"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Barrio Logan"
+                ], 
+                "postal_code": "92113", 
+                "country_code": "US", 
+                "address": [
+                    "1875 Logan  Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 32.701700180769, 
+                    "longitude": -117.144698873162
+                }, 
+                "state_code": "CA"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/la-vecindad-san-diego-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 190, 
+            "name": "La Vecindad", 
+            "rating_img_url_small": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/la-vecindad-san-diego-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Mexican", 
+                    "mexican"
+                ]
+            ], 
+            "phone": "6195012885", 
+            "snippet_text": "Went to this place to check it out for ourselves after reading great reviews, DID NOT DISSAPOINT!!\n\nThis place is owned by 3 brothers we met Tonio (hope I...", 
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NfMTvnTeHSclcrpn50b0NA/ms.jpg", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/pvHYE-vMbQeb77K0lgRqAw/ms.jpg", 
+            "display_phone": "+1-619-501-2885", 
+            "rating_img_url_large": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "la-vecindad-san-diego-2", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Robinson Ave & University Ave", 
+                "city": "San Diego", 
+                "display_address": [
+                    "3827 5th Avenue", 
+                    "Hillcrest", 
+                    "San Diego, CA 92103"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Hillcrest"
+                ], 
+                "postal_code": "92103", 
+                "country_code": "US", 
+                "address": [
+                    "3827 5th Avenue"
+                ], 
+                "coordinate": {
+                    "latitude": 32.7476563, 
+                    "longitude": -117.1602513
+                }, 
+                "state_code": "CA"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/city-tacos-san-diego?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 840, 
+            "name": "City Tacos", 
+            "rating_img_url_small": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/city-tacos-san-diego?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Mexican", 
+                    "mexican"
+                ]
+            ], 
+            "menu_date_updated": 1465031930, 
+            "phone": "6192962303", 
+            "snippet_text": "AMAZING! The friendly man who took our order was also amazingly helpful. \nGo for taco tuesday.\nGet the cucumbers and dip them in that special lite green...", 
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/s0Z9Zic1xLzty6BXXAGsgg/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/4-YwLzzna4kJgeT364r0UA/ms.jpg", 
+            "display_phone": "+1-619-296-2303", 
+            "rating_img_url_large": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "menu_provider": "locu", 
+            "id": "city-tacos-san-diego", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Ohio St & Ray St", 
+                "city": "San Diego", 
+                "display_address": [
+                    "3028 University Ave", 
+                    "North Park", 
+                    "San Diego, CA 92104"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "North Park"
+                ], 
+                "postal_code": "92104", 
+                "country_code": "US", 
+                "address": [
+                    "3028 University Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 32.7486052123323, 
+                    "longitude": -117.129386003169
+                }, 
+                "state_code": "CA"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/la-puerta-san-diego?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 2381, 
+            "name": "La Puerta", 
+            "rating_img_url_small": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/la-puerta-san-diego?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Mexican", 
+                    "mexican"
+                ], 
+                [
+                    "Bars", 
+                    "bars"
+                ]
+            ], 
+            "menu_date_updated": 1459575210, 
+            "phone": "6196963466", 
+            "snippet_text": "I'm sending out a huge thank you to the San Diego Yelpers for mentioning this place on Talk.  My friend wanted some good Mexican food in the Gaslamp area...", 
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/uBzIRvcpIug3tRS6CavE8w/ms.jpg", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/N92DyiPcRP8Apj5HdZrddQ/ms.jpg", 
+            "display_phone": "+1-619-696-3466", 
+            "rating_img_url_large": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "menu_provider": "single_platform", 
+            "id": "la-puerta-san-diego", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Island Ave & Market St", 
+                "city": "San Diego", 
+                "display_address": [
+                    "560 4th Ave", 
+                    "Gaslamp", 
+                    "San Diego, CA 92101"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Gaslamp"
+                ], 
+                "postal_code": "92101", 
+                "country_code": "US", 
+                "address": [
+                    "560 4th Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 32.7110023498535, 
+                    "longitude": -117.161323547363
+                }, 
+                "state_code": "CA"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/salud-san-diego-5?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 315, 
+            "name": "Salud", 
+            "rating_img_url_small": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/salud-san-diego-5?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Mexican", 
+                    "mexican"
+                ]
+            ], 
+            "phone": "6192553856", 
+            "snippet_text": "Yes yes yes! So good! My boyfriend and I went for the infamous 'taco tuesday' where tacos are $3 for 5\nWe got 6 tacos...all were really good. The fish one...", 
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tCXcwqEuier1cOwW6tBw6g/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/4-YwLzzna4kJgeT364r0UA/ms.jpg", 
+            "display_phone": "+1-619-255-3856", 
+            "rating_img_url_large": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "salud-san-diego-5", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Sampson St & Evans St", 
+                "city": "San Diego", 
+                "display_address": [
+                    "2196 Logan Ave", 
+                    "Barrio Logan", 
+                    "San Diego, CA 92113"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Barrio Logan"
+                ], 
+                "postal_code": "92113", 
+                "country_code": "US", 
+                "address": [
+                    "2196 Logan Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 32.6981987270296, 
+                    "longitude": -117.13937100023
+                }, 
+                "state_code": "CA"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/la-playa-taco-shop-san-diego?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 695, 
+            "name": "La Playa Taco Shop", 
+            "rating_img_url_small": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/la-playa-taco-shop-san-diego?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Mexican", 
+                    "mexican"
+                ]
+            ], 
+            "phone": "8584887405", 
+            "snippet_text": "The people of San Diego are a chill breed but when it comes to their favorite tacos, they all have their own opinions on the ~best~ fish taco I town.  \n\nI...", 
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/mfhiU1wa3aHr6R1rjtGVZw/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/zz9vkZQa5DX_eoeGRJAEAA/ms.jpg", 
+            "display_phone": "+1-858-488-7405", 
+            "rating_img_url_large": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "la-playa-taco-shop-san-diego", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Yarmouth Ct & York Ct", 
+                "city": "San Diego", 
+                "display_address": [
+                    "3973 Mission Blvd", 
+                    "San Diego, CA 92109"
+                ], 
+                "geo_accuracy": 8.0, 
+                "postal_code": "92109", 
+                "country_code": "US", 
+                "address": [
+                    "3973 Mission Blvd"
+                ], 
+                "coordinate": {
+                    "latitude": 32.7893981933594, 
+                    "longitude": -117.253089904785
+                }, 
+                "state_code": "CA"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/ortizs-taco-shop-san-diego?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 309, 
+            "name": "Ortiz's Taco Shop", 
+            "rating_img_url_small": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/ortizs-taco-shop-san-diego?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Mexican", 
+                    "mexican"
+                ], 
+                [
+                    "Fast Food", 
+                    "hotdogs"
+                ]
+            ], 
+            "phone": "6192224476", 
+            "snippet_text": "Fast, price point is good, and most importantly, delicious. Couldn't be happier.\n\nThe carne asada nachos were absolutely amazing. In fact, I am writing this...", 
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9kD43t0LaOJVMnaOWkNyyA/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/D90K2lgvH-0OuOhDaDBITQ/ms.jpg", 
+            "display_phone": "+1-619-222-4476", 
+            "rating_img_url_large": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "ortizs-taco-shop-san-diego", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Poinsettia Dr & Worden St", 
+                "city": "San Diego", 
+                "display_address": [
+                    "3704 Voltaire St", 
+                    "Point Loma", 
+                    "San Diego, CA 92107"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Point Loma"
+                ], 
+                "postal_code": "92107", 
+                "country_code": "US", 
+                "address": [
+                    "3704 Voltaire St"
+                ], 
+                "coordinate": {
+                    "latitude": 32.74049, 
+                    "longitude": -117.22903
+                }, 
+                "state_code": "CA"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 5.0, 
+            "mobile_url": "http://m.yelp.com/biz/mariscos-mi-gusto-es-san-diego-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png", 
+            "review_count": 111, 
+            "name": "Mariscos Mi Gusto Es", 
+            "rating_img_url_small": "https://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png", 
+            "url": "http://www.yelp.com/biz/mariscos-mi-gusto-es-san-diego-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Mexican", 
+                    "mexican"
+                ], 
+                [
+                    "Food Trucks", 
+                    "foodtrucks"
+                ]
+            ], 
+            "phone": "6199319790", 
+            "snippet_text": "I risked missing my flight out of San Diego to eat these tacos for breakfast at 9am, and while eating them, the thought crossed my mind to intentionally...", 
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9Dm7woCOFkg5vKhKYQvInQ/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/4fiWbnkEXSm7bqdVZZEZlw/ms.jpg", 
+            "display_phone": "+1-619-931-9790", 
+            "rating_img_url_large": "https://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png", 
+            "id": "mariscos-mi-gusto-es-san-diego-2", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "16th St & 15th St", 
+                "city": "San Diego", 
+                "display_address": [
+                    "1531 Broadway", 
+                    "East Village", 
+                    "San Diego, CA 92101"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "East Village"
+                ], 
+                "postal_code": "92101", 
+                "country_code": "US", 
+                "address": [
+                    "1531 Broadway"
+                ], 
+                "coordinate": {
+                    "latitude": 32.715361, 
+                    "longitude": -117.149785
+                }, 
+                "state_code": "CA"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/oscars-mexican-seafood-san-diego-6?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 833, 
+            "name": "Oscar's Mexican Seafood", 
+            "rating_img_url_small": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/oscars-mexican-seafood-san-diego-6?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Mexican", 
+                    "mexican"
+                ], 
+                [
+                    "Seafood", 
+                    "seafood"
+                ]
+            ], 
+            "menu_date_updated": 1465334691, 
+            "phone": "6197983550", 
+            "snippet_text": "Best fish tacos in SD. Fresh and flavorful and the price is cheap. I have had everthing on their menu is this is by far one of the best fish taco place I...", 
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/CQvRfvK8olaOcnqk_F_-ig/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/iDzncZ0zHIdtF8w3nIncRw/ms.jpg", 
+            "display_phone": "+1-619-798-3550", 
+            "rating_img_url_large": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "menu_provider": "single_platform", 
+            "id": "oscars-mexican-seafood-san-diego-6", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "7th Ave & 6th Ave", 
+                "city": "San Diego", 
+                "display_address": [
+                    "646 University Ave", 
+                    "Hillcrest", 
+                    "San Diego, CA 92103"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Hillcrest"
+                ], 
+                "postal_code": "92103", 
+                "country_code": "US", 
+                "address": [
+                    "646 University Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 32.7486014556313, 
+                    "longitude": -117.15913947605
+                }, 
+                "state_code": "CA"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/mikes-taco-club-san-diego?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 247, 
+            "name": "Mike's Taco Club", 
+            "rating_img_url_small": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/mikes-taco-club-san-diego?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Mexican", 
+                    "mexican"
+                ], 
+                [
+                    "Seafood", 
+                    "seafood"
+                ]
+            ], 
+            "snippet_text": "I've lived in Ocean Beach for 2 years and walked by this place countless times, but never gave it a shot. I tried Mike's for the first time last week, and...", 
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JcVgfPvFOn0hVqT5ZfryDQ/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/puku99N8qdlajqzcQmtXwg/ms.jpg", 
+            "rating_img_url_large": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "mikes-taco-club-san-diego", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Bacon St & Abbott St", 
+                "city": "San Diego", 
+                "display_address": [
+                    "5060 Newport Ave", 
+                    "Ocean Beach", 
+                    "San Diego, CA 92107"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Ocean Beach", 
+                    "Point Loma"
+                ], 
+                "postal_code": "92107", 
+                "country_code": "US", 
+                "address": [
+                    "5060 Newport Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 32.7474841475487, 
+                    "longitude": -117.251978516579
+                }, 
+                "state_code": "CA"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/puesto-san-diego-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 1652, 
+            "name": "Puesto", 
+            "rating_img_url_small": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/puesto-san-diego-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Mexican", 
+                    "mexican"
+                ]
+            ], 
+            "menu_date_updated": 1465011561, 
+            "phone": "6192338880", 
+            "snippet_text": "Oh wow, Puesto was a pleasant surprise! My company took a few clients out to dinner here last night, and I tagged along. As a local San Diegan and having a...", 
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tTkEW9_QAuOU0Om5Lk0YeA/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/lR7_-dahnRML0upQps4fMw/ms.jpg", 
+            "display_phone": "+1-619-233-8880", 
+            "rating_img_url_large": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "menu_provider": "locu", 
+            "id": "puesto-san-diego-2", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Broadway & Kettner Blvd", 
+                "city": "San Diego", 
+                "display_address": [
+                    "789 W Harbor Dr", 
+                    "San Diego, CA 92101"
+                ], 
+                "geo_accuracy": 9.5, 
+                "postal_code": "92101", 
+                "country_code": "US", 
+                "address": [
+                    "789 W Harbor Dr"
+                ], 
+                "coordinate": {
+                    "latitude": 32.7105454369358, 
+                    "longitude": -117.170392387138
+                }, 
+                "state_code": "CA"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/michos-san-diego?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 243, 
+            "name": "Michos", 
+            "rating_img_url_small": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/michos-san-diego?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Mexican", 
+                    "mexican"
+                ]
+            ], 
+            "phone": "6199224771", 
+            "snippet_text": "Absolutely my go to spot for tacos. It's inside of Atomic Nightclub for those who can't see the big sandwich board that says Michos. Mike is always there...", 
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/HWlp9BIYHDEIZgCKMZbkCg/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/EDUa6yn7bxa1fYmDb2rQaQ/ms.jpg", 
+            "display_phone": "+1-619-922-4771", 
+            "rating_img_url_large": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "michos-san-diego", 
+            "is_closed": false, 
+            "location": {
+                "city": "San Diego", 
+                "display_address": [
+                    "The Stage Bar", 
+                    "762 Fifth Ave", 
+                    "Gaslamp", 
+                    "San Diego, CA 92101"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Gaslamp"
+                ], 
+                "postal_code": "92101", 
+                "country_code": "US", 
+                "address": [
+                    "The Stage Bar", 
+                    "762 Fifth Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 32.713387, 
+                    "longitude": -117.160446
+                }, 
+                "state_code": "CA"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/oscars-mexican-seafood-san-diego-3?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 1768, 
+            "name": "Oscar's Mexican Seafood", 
+            "rating_img_url_small": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/oscars-mexican-seafood-san-diego-3?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Mexican", 
+                    "mexican"
+                ], 
+                [
+                    "Seafood", 
+                    "seafood"
+                ]
+            ], 
+            "menu_date_updated": 1465334680, 
+            "phone": "8584886392", 
+            "snippet_text": "Oscar's Mexican Seafood is so good! This place has tacos, burritos, tortas, and ceviche. It's a small restaurant and there is no inside seating. All seating...", 
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/NI0JCzI6cjZqVEsiHNdybw/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/eB5JKgZXAi_onTQZcIafMA/ms.jpg", 
+            "display_phone": "+1-858-488-6392", 
+            "rating_img_url_large": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "menu_provider": "single_platform", 
+            "id": "oscars-mexican-seafood-san-diego-3", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Wrelton Dr & La Jolla Mesa Dr", 
+                "city": "San Diego", 
+                "display_address": [
+                    "703 Turquoise St", 
+                    "La Jolla", 
+                    "San Diego, CA 92109"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "La Jolla"
+                ], 
+                "postal_code": "92109", 
+                "country_code": "US", 
+                "address": [
+                    "703 Turquoise St"
+                ], 
+                "coordinate": {
+                    "latitude": 32.808189, 
+                    "longitude": -117.260846
+                }, 
+                "state_code": "CA"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/tacos-perla-san-diego?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 466, 
+            "name": "Tacos Perla", 
+            "rating_img_url_small": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/tacos-perla-san-diego?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Mexican", 
+                    "mexican"
+                ]
+            ], 
+            "menu_date_updated": 1447931309, 
+            "phone": "6197950700", 
+            "snippet_text": "My biggest regret of my recent San Diego trip was not visiting Tacos Perla twice.  While it was brought up on multiple occasions, sadly time just did not...", 
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/xWeRLqPoQ9E-h0_4lv49Hg/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/RceM4t7w3MO5QGB1wp2uWw/ms.jpg", 
+            "display_phone": "+1-619-795-0700", 
+            "rating_img_url_large": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "menu_provider": "single_platform", 
+            "id": "tacos-perla-san-diego", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "30th St & Ray St", 
+                "city": "San Diego", 
+                "display_address": [
+                    "3000 Upas St", 
+                    "Ste 105", 
+                    "North Park", 
+                    "San Diego, CA 92104"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "North Park"
+                ], 
+                "postal_code": "92104", 
+                "country_code": "US", 
+                "address": [
+                    "3000 Upas St", 
+                    "Ste 105"
+                ], 
+                "coordinate": {
+                    "latitude": 32.7411306649446, 
+                    "longitude": -117.129736170173
+                }, 
+                "state_code": "CA"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/mexican-fiesta-san-diego?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 325, 
+            "name": "Mexican Fiesta", 
+            "rating_img_url_small": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/mexican-fiesta-san-diego?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Mexican", 
+                    "mexican"
+                ]
+            ], 
+            "phone": "6192319851", 
+            "snippet_text": "So I thought to myself, oh, it's raining. I should go to Mexican Fiesta for an early lunch since there won't be a line. Not so fast, smart guy!  There were...", 
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/OfAX9q_I-lXVnlm_jCfPHg/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/EFLpN0iH9GLI3t6zd3N5cQ/ms.jpg", 
+            "display_phone": "+1-619-231-9851", 
+            "rating_img_url_large": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "mexican-fiesta-san-diego", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Beech St & Ash St", 
+                "city": "San Diego", 
+                "display_address": [
+                    "1460 India St", 
+                    "Little Italy", 
+                    "San Diego, CA 92101"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Little Italy"
+                ], 
+                "postal_code": "92101", 
+                "country_code": "US", 
+                "address": [
+                    "1460 India St"
+                ], 
+                "coordinate": {
+                    "latitude": 32.7206535339355, 
+                    "longitude": -117.168563842773
+                }, 
+                "state_code": "CA"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/tacos-la-mezcla-san-diego?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 131, 
+            "name": "Tacos La Mezcla", 
+            "rating_img_url_small": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/tacos-la-mezcla-san-diego?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Mexican", 
+                    "mexican"
+                ], 
+                [
+                    "Food Trucks", 
+                    "foodtrucks"
+                ], 
+                [
+                    "Street Vendors", 
+                    "streetvendors"
+                ]
+            ], 
+            "phone": "6198891337", 
+            "snippet_text": "Francisco and Javier were an amazing team! We had a two day event and asked Francisco to set up his food truck. It was the biggest hit of the day and...", 
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/hFrE3bWhhkV8DUDNU330CA/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/dB9SN0RSfzbHvlPYaGOuWA/ms.jpg", 
+            "display_phone": "+1-619-889-1337", 
+            "rating_img_url_large": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "tacos-la-mezcla-san-diego", 
+            "is_closed": false, 
+            "location": {
+                "city": "San Diego", 
+                "display_address": [
+                    "North Park", 
+                    "San Diego, CA 92104"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "North Park"
+                ], 
+                "postal_code": "92104", 
+                "country_code": "US", 
+                "address": [], 
+                "coordinate": {
+                    "latitude": 32.7398671, 
+                    "longitude": -117.1205925
+                }, 
+                "state_code": "CA"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/famoso-mexican-street-food-san-diego-20?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 159, 
+            "name": "Famoso Mexican Street Food", 
+            "rating_img_url_small": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/famoso-mexican-street-food-san-diego-20?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Mexican", 
+                    "mexican"
+                ], 
+                [
+                    "Food Trucks", 
+                    "foodtrucks"
+                ]
+            ], 
+            "menu_date_updated": 1463259973, 
+            "phone": "6198004144", 
+            "snippet_text": "I've had the street fries on another occasion and they were great.\n\nBut wow... That Cali Diablo Burrito.\nHefty price tag \nDelicious burrito.\n\nI hope to run...", 
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/SPm5t0J-v3eeKLIK-XdfTg/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/vZdSVABj1zoGKRXxfDZspA/ms.jpg", 
+            "display_phone": "+1-619-800-4144", 
+            "rating_img_url_large": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "menu_provider": "eat24", 
+            "id": "famoso-mexican-street-food-san-diego-20", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "9th Ave & 8th Ave", 
+                "city": "San Diego", 
+                "display_address": [
+                    "815 C St", 
+                    "Downtown", 
+                    "San Diego, CA 92101"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Downtown", 
+                    "East Village"
+                ], 
+                "postal_code": "92101", 
+                "country_code": "US", 
+                "address": [
+                    "815 C St"
+                ], 
+                "coordinate": {
+                    "latitude": 32.7166587945231, 
+                    "longitude": -117.15702634954
+                }, 
+                "state_code": "CA"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/el-zarape-san-diego?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 2192, 
+            "name": "El Zarape", 
+            "rating_img_url_small": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/el-zarape-san-diego?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Mexican", 
+                    "mexican"
+                ], 
+                [
+                    "Seafood", 
+                    "seafood"
+                ]
+            ], 
+            "phone": "6196921652", 
+            "snippet_text": "I was on a mission to get some good, authentic tacos during my visit to San Diego without having to step foot into Mexico. This proved to be more difficult...", 
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/RtzXX-BHwT0QjE5PfMTbLg/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/6Acerz9A4fjiU5r_dQjLYQ/ms.jpg", 
+            "display_phone": "+1-619-692-1652", 
+            "rating_img_url_large": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "el-zarape-san-diego", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "Madison Ave & Spalding Pl", 
+                "city": "San Diego", 
+                "display_address": [
+                    "4642 Park Blvd", 
+                    "University Heights", 
+                    "San Diego, CA 92116"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "University Heights"
+                ], 
+                "postal_code": "92116", 
+                "country_code": "US", 
+                "address": [
+                    "4642 Park Blvd"
+                ], 
+                "coordinate": {
+                    "latitude": 32.7617950439453, 
+                    "longitude": -117.146629333496
+                }, 
+                "state_code": "CA"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/tako-factory-san-diego?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 619, 
+            "name": "Tako Factory", 
+            "rating_img_url_small": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/tako-factory-san-diego?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Mexican", 
+                    "mexican"
+                ], 
+                [
+                    "Fast Food", 
+                    "hotdogs"
+                ]
+            ], 
+            "phone": "6197414502", 
+            "snippet_text": "This place is really good! The staff has always been friendly and open to chit chat. They've never once gotten an order wrong or messed up in any other...", 
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/oR70BzEY6CIhc_eekU9l2A/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/szMg9Xjuw3FqpCq62ixclA/ms.jpg", 
+            "display_phone": "+1-619-741-4502", 
+            "rating_img_url_large": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "tako-factory-san-diego", 
+            "is_closed": false, 
+            "location": {
+                "cross_streets": "73rd St & Harbinson Ave", 
+                "city": "San Diego", 
+                "display_address": [
+                    "7287 El Cajon Blvd", 
+                    "La Mesa", 
+                    "San Diego, CA 92115"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "La Mesa"
+                ], 
+                "postal_code": "92115", 
+                "country_code": "US", 
+                "address": [
+                    "7287 El Cajon Blvd"
+                ], 
+                "coordinate": {
+                    "latitude": 32.768497467041, 
+                    "longitude": -117.040618896484
+                }, 
+                "state_code": "CA"
+            }
+        }
+    ]
+}

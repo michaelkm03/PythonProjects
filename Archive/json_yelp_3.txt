@@ -1,0 +1,1047 @@
+{
+    "region": {
+        "span": {
+            "latitude_delta": 0.08060301082151966, 
+            "longitude_delta": 0.09201307707789397
+        }, 
+        "center": {
+            "latitude": 49.2645984321916, 
+            "longitude": -123.1154613259445
+        }
+    }, 
+    "total": 160, 
+    "businesses": [
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/lobsters-only-seafood-vancouver-3?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 12, 
+            "name": "Lobsters Only Seafood", 
+            "rating_img_url_small": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/lobsters-only-seafood-vancouver-3?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Seafood", 
+                    "seafood"
+                ]
+            ], 
+            "phone": "6048736820", 
+            "snippet_text": "Went to check out  \"Lobster Only\" after finding and reading the posts here.\nI was duly impressed with the great selection of lobster items, both fresh and...", 
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/23c4IKYv1GOqyY4780ZcCg/ms.jpg", 
+            "snippet_image_url": "https://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png", 
+            "display_phone": "+1-604-873-6820", 
+            "rating_img_url_large": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "lobsters-only-seafood-vancouver-3", 
+            "is_closed": false, 
+            "location": {
+                "city": "Vancouver", 
+                "display_address": [
+                    "416 Broadway E", 
+                    "Mount Pleasant", 
+                    "Vancouver, BC V5T 1X2", 
+                    "Canada"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Mount Pleasant"
+                ], 
+                "postal_code": "V5T 1X2", 
+                "country_code": "CA", 
+                "address": [
+                    "416 Broadway E"
+                ], 
+                "coordinate": {
+                    "latitude": 49.262397, 
+                    "longitude": -123.0953707
+                }, 
+                "state_code": "BC"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/ho-yuen-kee-vancouver?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 109, 
+            "name": "Ho Yuen Kee", 
+            "rating_img_url_small": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/ho-yuen-kee-vancouver?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Seafood", 
+                    "seafood"
+                ], 
+                [
+                    "Chinese", 
+                    "chinese"
+                ]
+            ], 
+            "phone": "6043248855", 
+            "snippet_text": "Finally crossed off the \"Lobster on Sticky Rice\" from my Yelp bucket-list. \n\nWhat made the Lobster-Rice dish stand out to me was the sticky-rice. The...", 
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_h18Q5AnqB1EczNaPmlCGg/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/sT_e8ncvJydZAhStRp-A0g/ms.jpg", 
+            "display_phone": "+1-604-324-8855", 
+            "rating_img_url_large": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "ho-yuen-kee-vancouver", 
+            "is_closed": false, 
+            "location": {
+                "city": "Vancouver", 
+                "display_address": [
+                    "6236 Fraser Street", 
+                    "Sunset", 
+                    "Vancouver, BC V5W 3A1", 
+                    "Canada"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Sunset"
+                ], 
+                "postal_code": "V5W 3A1", 
+                "country_code": "CA", 
+                "address": [
+                    "6236 Fraser Street"
+                ], 
+                "coordinate": {
+                    "latitude": 49.2279396, 
+                    "longitude": -123.0902863
+                }, 
+                "state_code": "BC"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/joe-fortes-seafood-and-chop-house-vancouver?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 537, 
+            "name": "Joe Fortes Seafood & Chop House", 
+            "rating_img_url_small": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/joe-fortes-seafood-and-chop-house-vancouver?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Seafood", 
+                    "seafood"
+                ], 
+                [
+                    "Steakhouses", 
+                    "steak"
+                ]
+            ], 
+            "phone": "6046691940", 
+            "snippet_text": "Came here two days in a row for Happy Hour. We sat at the bar and when we were paying our bill the second afternoon we found out that the beautiful patio...", 
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ZNEasF33fTOLINKYDRvvhg/ms.jpg", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/fjyz37v4SXU4PJhpxtpR-A/ms.jpg", 
+            "display_phone": "+1-604-669-1940", 
+            "rating_img_url_large": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "joe-fortes-seafood-and-chop-house-vancouver", 
+            "is_closed": false, 
+            "location": {
+                "city": "Vancouver", 
+                "display_address": [
+                    "777 Thurlow Street", 
+                    "West End", 
+                    "Vancouver, BC V6E 3V5", 
+                    "Canada"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "West End"
+                ], 
+                "postal_code": "V6E 3V5", 
+                "country_code": "CA", 
+                "address": [
+                    "777 Thurlow Street"
+                ], 
+                "coordinate": {
+                    "latitude": 49.28493, 
+                    "longitude": -123.12473
+                }, 
+                "state_code": "BC"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/rodneys-oyster-house-vancouver?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 428, 
+            "name": "Rodney's Oyster House", 
+            "rating_img_url_small": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/rodneys-oyster-house-vancouver?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Seafood", 
+                    "seafood"
+                ], 
+                [
+                    "Live/Raw Food", 
+                    "raw_food"
+                ]
+            ], 
+            "phone": "6046090080", 
+            "snippet_text": "Went out for a girls night here last night and it was amazing. Our server Kevin was above and beyond excellent and the food/drinks were to die for. We had...", 
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Xtk5GnuhBDiVUBkK3pyRdg/ms.jpg", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/sE27AkgP0Ur7DpR-fZy4JQ/ms.jpg", 
+            "display_phone": "+1-604-609-0080", 
+            "rating_img_url_large": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "rodneys-oyster-house-vancouver", 
+            "is_closed": false, 
+            "location": {
+                "city": "Vancouver", 
+                "display_address": [
+                    "1228 Hamilton Street", 
+                    "Yaletown", 
+                    "Vancouver, BC V6B 6L2", 
+                    "Canada"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Yaletown", 
+                    "Downtown"
+                ], 
+                "postal_code": "V6B 6L2", 
+                "country_code": "CA", 
+                "address": [
+                    "1228 Hamilton Street"
+                ], 
+                "coordinate": {
+                    "latitude": 49.2744326, 
+                    "longitude": -123.1232482
+                }, 
+                "state_code": "BC"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/pink-peppercorn-vancouver?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 71, 
+            "name": "Pink Peppercorn", 
+            "rating_img_url_small": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/pink-peppercorn-vancouver?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Seafood", 
+                    "seafood"
+                ]
+            ], 
+            "phone": "6045693626", 
+            "snippet_text": "Boyfriend and I were visiting from Cali, and we hadn't packed any dressy clothes so I was looking around for a  casual restaurant where I could take him for...", 
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/cXmu-Bw_2OAR5ZaclS0usA/ms.jpg", 
+            "snippet_image_url": "https://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png", 
+            "display_phone": "+1-604-569-3626", 
+            "rating_img_url_large": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "pink-peppercorn-vancouver", 
+            "is_closed": false, 
+            "location": {
+                "city": "Vancouver", 
+                "display_address": [
+                    "1485 Kingsway", 
+                    "Kensington-Cedar Cottage", 
+                    "Vancouver, BC V5N 2R6", 
+                    "Canada"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Kensington-Cedar Cottage"
+                ], 
+                "postal_code": "V5N 2R6", 
+                "country_code": "CA", 
+                "address": [
+                    "1485 Kingsway"
+                ], 
+                "coordinate": {
+                    "latitude": 49.2493583, 
+                    "longitude": -123.0739159
+                }, 
+                "state_code": "BC"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/blue-water-cafe-vancouver?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 513, 
+            "name": "Blue Water Cafe", 
+            "rating_img_url_small": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/blue-water-cafe-vancouver?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Seafood", 
+                    "seafood"
+                ], 
+                [
+                    "Live/Raw Food", 
+                    "raw_food"
+                ], 
+                [
+                    "Bars", 
+                    "bars"
+                ]
+            ], 
+            "phone": "6046888078", 
+            "snippet_text": "We had an excellent meal at Blue Water Cafe!  Amazing food, excellent service, and great ambiance.\n\nTo start, our cocktails were very good (both my...", 
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/sn-NmxzWpXis2RPb0B_EPw/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/phAzXC9BXG-0lI87XYX-XA/ms.jpg", 
+            "display_phone": "+1-604-688-8078", 
+            "rating_img_url_large": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "blue-water-cafe-vancouver", 
+            "is_closed": false, 
+            "location": {
+                "city": "Vancouver", 
+                "display_address": [
+                    "1095 Hamilton Street", 
+                    "Yaletown", 
+                    "Vancouver, BC V6B 5T4", 
+                    "Canada"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Yaletown", 
+                    "Downtown"
+                ], 
+                "postal_code": "V6B 5T4", 
+                "country_code": "CA", 
+                "address": [
+                    "1095 Hamilton Street"
+                ], 
+                "coordinate": {
+                    "latitude": 49.2761945, 
+                    "longitude": -123.1209935
+                }, 
+                "state_code": "BC"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 3.5, 
+            "mobile_url": "http://m.yelp.com/biz/wildtale-coastal-grill-vancouver?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png", 
+            "review_count": 71, 
+            "name": "WildTale Coastal Grill", 
+            "rating_img_url_small": "https://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png", 
+            "url": "http://www.yelp.com/biz/wildtale-coastal-grill-vancouver?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Seafood", 
+                    "seafood"
+                ], 
+                [
+                    "Canadian (New)", 
+                    "newcanadian"
+                ]
+            ], 
+            "phone": "6044289211", 
+            "snippet_text": "went there for lunch and even though there is just as small selection for vegetarians (that's not complaining- I'm aware that it's a coastal grill!) they...", 
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/KsnYmBWbLZsSWWdDNQjjaA/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/JPsJuAHsMP2mEnvAWB3psg/ms.jpg", 
+            "display_phone": "+1-604-428-9211", 
+            "rating_img_url_large": "https://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png", 
+            "id": "wildtale-coastal-grill-vancouver", 
+            "is_closed": false, 
+            "location": {
+                "city": "Vancouver", 
+                "display_address": [
+                    "1079 Mainland Street", 
+                    "Yaletown", 
+                    "Vancouver, BC V6B", 
+                    "Canada"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Yaletown", 
+                    "Downtown"
+                ], 
+                "postal_code": "V6B", 
+                "country_code": "CA", 
+                "address": [
+                    "1079 Mainland Street"
+                ], 
+                "coordinate": {
+                    "latitude": 49.2759819, 
+                    "longitude": -123.120163
+                }, 
+                "state_code": "BC"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/ancora-waterfront-dining-and-patio-vancouver?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 38, 
+            "name": "Ancora Waterfront Dining and Patio", 
+            "rating_img_url_small": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/ancora-waterfront-dining-and-patio-vancouver?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Seafood", 
+                    "seafood"
+                ]
+            ], 
+            "phone": "6046811164", 
+            "snippet_text": "My then-girlfriend and current fiancé went to Ancora the night I proposed. They sat us upstairs at a beautiful table with a view of the restaurant. We...", 
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lMjFRpgFLSPeoFcRiMnpzA/ms.jpg", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/DGsUtMa_U6NFeK-qMe8F7A/ms.jpg", 
+            "display_phone": "+1-604-681-1164", 
+            "rating_img_url_large": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "ancora-waterfront-dining-and-patio-vancouver", 
+            "is_closed": false, 
+            "location": {
+                "city": "Vancouver", 
+                "display_address": [
+                    "1600 Howe Street", 
+                    "Downtown", 
+                    "Vancouver, BC V6Z", 
+                    "Canada"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Downtown"
+                ], 
+                "postal_code": "V6Z", 
+                "country_code": "CA", 
+                "address": [
+                    "1600 Howe Street"
+                ], 
+                "coordinate": {
+                    "latitude": 49.27381, 
+                    "longitude": -123.1326
+                }, 
+                "state_code": "BC"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/yew-seafood-bar-vancouver?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 322, 
+            "name": "YEW Seafood + Bar", 
+            "rating_img_url_small": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/yew-seafood-bar-vancouver?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Seafood", 
+                    "seafood"
+                ], 
+                [
+                    "Wine Bars", 
+                    "wine_bars"
+                ]
+            ], 
+            "phone": "6046924939", 
+            "snippet_text": "This place is definitely worth the price.\n\nI have only had great experiences at YEW culminating with a spectacular experience this past weekend. My mother...", 
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/n7U-clcPhw01Y1YBnoIneg/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/FDdM2nFQ0XYz69ibFouSwQ/ms.jpg", 
+            "display_phone": "+1-604-692-4939", 
+            "rating_img_url_large": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "yew-seafood-bar-vancouver", 
+            "is_closed": false, 
+            "location": {
+                "city": "Vancouver", 
+                "display_address": [
+                    "Four Seasons Hotel Vancouver", 
+                    "791 W Georgia Street", 
+                    "Downtown", 
+                    "Vancouver, BC V6C 2T4", 
+                    "Canada"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Downtown"
+                ], 
+                "postal_code": "V6C 2T4", 
+                "country_code": "CA", 
+                "address": [
+                    "Four Seasons Hotel Vancouver", 
+                    "791 W Georgia Street"
+                ], 
+                "coordinate": {
+                    "latitude": 49.2831096, 
+                    "longitude": -123.1188747
+                }, 
+                "state_code": "BC"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 3.5, 
+            "mobile_url": "http://m.yelp.com/biz/the-fish-shack-vancouver?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png", 
+            "review_count": 232, 
+            "name": "The Fish Shack", 
+            "rating_img_url_small": "https://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png", 
+            "url": "http://www.yelp.com/biz/the-fish-shack-vancouver?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Seafood", 
+                    "seafood"
+                ], 
+                [
+                    "Fish & Chips", 
+                    "fishnchips"
+                ]
+            ], 
+            "phone": "6046781049", 
+            "snippet_text": "It was a holiday when we visited so the place was pretty packed and we only had a choice of the patio or the bar. We picked the patio, which was actually...", 
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_nDswtn8frAuyU1I8YWj8g/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/vakUwcDmdeOpVU4RqK72Tw/ms.jpg", 
+            "display_phone": "+1-604-678-1049", 
+            "rating_img_url_large": "https://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png", 
+            "id": "the-fish-shack-vancouver", 
+            "is_closed": false, 
+            "location": {
+                "city": "Vancouver", 
+                "display_address": [
+                    "1026 Granville Street", 
+                    "Granville Entertainment District", 
+                    "Vancouver, BC V6Z 1L2", 
+                    "Canada"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Granville Entertainment District", 
+                    "Downtown"
+                ], 
+                "postal_code": "V6Z 1L2", 
+                "country_code": "CA", 
+                "address": [
+                    "1026 Granville Street"
+                ], 
+                "coordinate": {
+                    "latitude": 49.2787, 
+                    "longitude": -123.12326
+                }, 
+                "state_code": "BC"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/rodneys-oyster-house-gastown-vancouver?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 92, 
+            "name": "Rodney's Oyster House Gastown", 
+            "rating_img_url_small": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/rodneys-oyster-house-gastown-vancouver?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Seafood", 
+                    "seafood"
+                ], 
+                [
+                    "Live/Raw Food", 
+                    "raw_food"
+                ]
+            ], 
+            "phone": "6046852005", 
+            "snippet_text": "Happy hour was the BOMB!! The prices are great and the quality of the seafood is superb.\n\nMy friend and I are both seafood addicts, so when we are in town,...", 
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/xn3AspwQYaqMH5xphhCmIQ/ms.jpg", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/MW2vv81A-29NlN1wAlmSSQ/ms.jpg", 
+            "display_phone": "+1-604-685-2005", 
+            "rating_img_url_large": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "rodneys-oyster-house-gastown-vancouver", 
+            "is_closed": false, 
+            "location": {
+                "city": "Vancouver", 
+                "display_address": [
+                    "52 Powell Street", 
+                    "Gastown", 
+                    "Vancouver, BC V6A 1E7", 
+                    "Canada"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Gastown", 
+                    "Downtown"
+                ], 
+                "postal_code": "V6A 1E7", 
+                "country_code": "CA", 
+                "address": [
+                    "52 Powell Street"
+                ], 
+                "coordinate": {
+                    "latitude": 49.2831349, 
+                    "longitude": -123.1030172
+                }, 
+                "state_code": "BC"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/west-vancouver-3?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 167, 
+            "name": "West", 
+            "rating_img_url_small": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/west-vancouver-3?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Seafood", 
+                    "seafood"
+                ], 
+                [
+                    "Canadian (New)", 
+                    "newcanadian"
+                ], 
+                [
+                    "Steakhouses", 
+                    "steak"
+                ]
+            ], 
+            "phone": "6047388938", 
+            "snippet_text": "My husband and I came here for the set New Year's Eve Menu.  It was a five course meal with each course having 3 options to choose from which is fantastic...", 
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/d0HQDvQokWXfVn0oYTj-7g/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/bJvd0ol60Qf71IHFVXT3pA/ms.jpg", 
+            "display_phone": "+1-604-738-8938", 
+            "rating_img_url_large": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "west-vancouver-3", 
+            "is_closed": false, 
+            "location": {
+                "city": "Vancouver", 
+                "display_address": [
+                    "2881 Granville Street", 
+                    "Fairview Slopes", 
+                    "Vancouver, BC V6H 3J4", 
+                    "Canada"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Fairview Slopes", 
+                    "South Granville"
+                ], 
+                "postal_code": "V6H 3J4", 
+                "country_code": "CA", 
+                "address": [
+                    "2881 Granville Street"
+                ], 
+                "coordinate": {
+                    "latitude": 49.26003, 
+                    "longitude": -123.13912
+                }, 
+                "state_code": "BC"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/the-keg-steakhouse-bar-dunsmuir-vancouver?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 72, 
+            "name": "The Keg Steakhouse + Bar - Dunsmuir", 
+            "rating_img_url_small": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/the-keg-steakhouse-bar-dunsmuir-vancouver?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Seafood", 
+                    "seafood"
+                ], 
+                [
+                    "Steakhouses", 
+                    "steak"
+                ], 
+                [
+                    "Bars", 
+                    "bars"
+                ]
+            ], 
+            "phone": "6046857502", 
+            "snippet_text": "Of all The Keg locations I've visited, this one is always my favorite. The restaurant is very new, with beautiful modern decor and paintings. Not to...", 
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/NedW3nZn8AXgoJ6YwLfnEw/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/QeWP2uwZgtjPWQwDW8BWGg/ms.jpg", 
+            "display_phone": "+1-604-685-7502", 
+            "rating_img_url_large": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "the-keg-steakhouse-bar-dunsmuir-vancouver", 
+            "is_closed": false, 
+            "location": {
+                "city": "Vancouver", 
+                "display_address": [
+                    "688 Dunsmuir Street", 
+                    "Downtown", 
+                    "Vancouver, BC V6B 1N3", 
+                    "Canada"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Downtown"
+                ], 
+                "postal_code": "V6B 1N3", 
+                "country_code": "CA", 
+                "address": [
+                    "688 Dunsmuir Street"
+                ], 
+                "coordinate": {
+                    "latitude": 49.283376, 
+                    "longitude": -123.116445
+                }, 
+                "state_code": "BC"
+            }
+        }, 
+        {
+            "is_claimed": false, 
+            "rating": 3.5, 
+            "mobile_url": "http://m.yelp.com/biz/kirin-seafood-restaurant-vancouver?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png", 
+            "review_count": 199, 
+            "name": "Kirin Seafood Restaurant", 
+            "rating_img_url_small": "https://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png", 
+            "url": "http://www.yelp.com/biz/kirin-seafood-restaurant-vancouver?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Seafood", 
+                    "seafood"
+                ], 
+                [
+                    "Dim Sum", 
+                    "dimsum"
+                ]
+            ], 
+            "phone": "6048798038", 
+            "snippet_text": "During the walk up leading to the restaurant, I was a bit skeptical. I had heard excellent reviews about Kirin, however, its location on the second floor of...", 
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/W3LRtVkR2qxoUOwe1It_sA/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/bH4ngw7XpJkZmLD4sXrzSQ/ms.jpg", 
+            "display_phone": "+1-604-879-8038", 
+            "rating_img_url_large": "https://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png", 
+            "id": "kirin-seafood-restaurant-vancouver", 
+            "is_closed": false, 
+            "location": {
+                "city": "Vancouver", 
+                "display_address": [
+                    "555 W 12th Avenue", 
+                    "Fairview Slopes", 
+                    "Vancouver, BC V5Z 3X7", 
+                    "Canada"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Fairview Slopes"
+                ], 
+                "postal_code": "V5Z 3X7", 
+                "country_code": "CA", 
+                "address": [
+                    "555 W 12th Avenue"
+                ], 
+                "coordinate": {
+                    "latitude": 49.26086, 
+                    "longitude": -123.11629
+                }, 
+                "state_code": "BC"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/seasons-in-the-park-vancouver?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 270, 
+            "name": "Seasons In the Park", 
+            "rating_img_url_small": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/seasons-in-the-park-vancouver?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Seafood", 
+                    "seafood"
+                ]
+            ], 
+            "phone": "6048748008", 
+            "snippet_text": "Happened upon this \"thousand points of light\" view atop of Queen Elizabeth Park while looking up from tulip garden. Parking is on the street and valet is...", 
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/vHqwsgjafmx4dmgQJHkqGg/ms.jpg", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/DMgjbveN_es3IQGSO4AIDQ/ms.jpg", 
+            "display_phone": "+1-604-874-8008", 
+            "rating_img_url_large": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "seasons-in-the-park-vancouver", 
+            "is_closed": false, 
+            "location": {
+                "city": "Vancouver", 
+                "display_address": [
+                    "Queen Elizabeth Park", 
+                    "Cambie Street W 33rd Avenue", 
+                    "Riley Park", 
+                    "Vancouver, BC V5Y 2M5", 
+                    "Canada"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Riley Park"
+                ], 
+                "postal_code": "V5Y 2M5", 
+                "country_code": "CA", 
+                "address": [
+                    "Queen Elizabeth Park", 
+                    "Cambie Street W 33rd Avenue"
+                ], 
+                "coordinate": {
+                    "latitude": 49.2416705486198, 
+                    "longitude": -123.112535476685
+                }, 
+                "state_code": "BC"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 3.5, 
+            "mobile_url": "http://m.yelp.com/biz/chewies-steam-and-oyster-bar-kits-vancouver?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png", 
+            "review_count": 215, 
+            "name": "Chewies Steam & Oyster Bar - Kits", 
+            "rating_img_url_small": "https://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png", 
+            "url": "http://www.yelp.com/biz/chewies-steam-and-oyster-bar-kits-vancouver?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Seafood", 
+                    "seafood"
+                ], 
+                [
+                    "Cajun/Creole", 
+                    "cajun"
+                ]
+            ], 
+            "phone": "6045584448", 
+            "snippet_text": "Chewies. What isn't to love? Close to Kits beach, friendly staff and good southern style eats. \n\nMy sisters and I brought my Dad to this local favourite for...", 
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/evGad2G3QH2HEhikKoKm3w/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/hPa7bJ1msljmoSXOEbr-tQ/ms.jpg", 
+            "display_phone": "+1-604-558-4448", 
+            "rating_img_url_large": "https://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png", 
+            "id": "chewies-steam-and-oyster-bar-kits-vancouver", 
+            "is_closed": false, 
+            "location": {
+                "city": "Vancouver", 
+                "display_address": [
+                    "2201 W 1st Avenue", 
+                    "Kitsilano", 
+                    "Vancouver, BC V6K 1E9", 
+                    "Canada"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Kitsilano"
+                ], 
+                "postal_code": "V6K 1E9", 
+                "country_code": "CA", 
+                "address": [
+                    "2201 W 1st Avenue"
+                ], 
+                "coordinate": {
+                    "latitude": 49.2709727, 
+                    "longitude": -123.1552829
+                }, 
+                "state_code": "BC"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 3.0, 
+            "mobile_url": "http://m.yelp.com/biz/the-vancouver-fish-company-vancouver-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media3.fl.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png", 
+            "review_count": 57, 
+            "name": "The Vancouver Fish Company", 
+            "rating_img_url_small": "https://s3-media3.fl.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png", 
+            "url": "http://www.yelp.com/biz/the-vancouver-fish-company-vancouver-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Seafood", 
+                    "seafood"
+                ], 
+                [
+                    "Pizza", 
+                    "pizza"
+                ], 
+                [
+                    "Bars", 
+                    "bars"
+                ]
+            ], 
+            "phone": "6045593474", 
+            "snippet_text": "What a wonderful experience I had when I went to this establishment. The bartenders were super helpful, and the wait staff are super friendly and...", 
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/pnf0ZmX7CTkDrQGQI7YsiA/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/VEpjtLWsnG89hffMucHTFw/ms.jpg", 
+            "display_phone": "+1-604-559-3474", 
+            "rating_img_url_large": "https://s3-media1.fl.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png", 
+            "id": "the-vancouver-fish-company-vancouver-2", 
+            "is_closed": false, 
+            "location": {
+                "city": "Vancouver", 
+                "display_address": [
+                    "1517 Anderson Street", 
+                    "Granville Island/False Creek", 
+                    "Vancouver, BC V6H", 
+                    "Canada"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Granville Island/False Creek"
+                ], 
+                "postal_code": "V6H", 
+                "country_code": "CA", 
+                "address": [
+                    "1517 Anderson Street"
+                ], 
+                "coordinate": {
+                    "latitude": 49.2706337, 
+                    "longitude": -123.1363297
+                }, 
+                "state_code": "BC"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/teahouse-vancouver?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 208, 
+            "name": "Teahouse", 
+            "rating_img_url_small": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/teahouse-vancouver?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Seafood", 
+                    "seafood"
+                ]
+            ], 
+            "phone": "6046693281", 
+            "snippet_text": "Our whole experience at the Teahouse was everything we wanted and more. Extraordinary! Beautiful view of the bay and sunset! Service was excellent... Such...", 
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/FFoXT2wRHDJzBEbVoxiz-g/ms.jpg", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/pHv35mSvsp79UqmDKiQHsw/ms.jpg", 
+            "display_phone": "+1-604-669-3281", 
+            "rating_img_url_large": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "teahouse-vancouver", 
+            "is_closed": false, 
+            "location": {
+                "city": "Vancouver", 
+                "display_address": [
+                    "Ferguson Point", 
+                    "Stanley Park", 
+                    "West End", 
+                    "Vancouver, BC V6G 3E2", 
+                    "Canada"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "West End"
+                ], 
+                "postal_code": "V6G 3E2", 
+                "country_code": "CA", 
+                "address": [
+                    "Ferguson Point", 
+                    "Stanley Park"
+                ], 
+                "coordinate": {
+                    "latitude": 49.3012361643832, 
+                    "longitude": -123.157285451889
+                }, 
+                "state_code": "BC"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 3.5, 
+            "mobile_url": "http://m.yelp.com/biz/the-sandbar-seafood-restaurant-vancouver-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png", 
+            "review_count": 363, 
+            "name": "The Sandbar Seafood Restaurant", 
+            "rating_img_url_small": "https://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png", 
+            "url": "http://www.yelp.com/biz/the-sandbar-seafood-restaurant-vancouver-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Seafood", 
+                    "seafood"
+                ], 
+                [
+                    "Sushi Bars", 
+                    "sushi"
+                ], 
+                [
+                    "Music Venues", 
+                    "musicvenues"
+                ]
+            ], 
+            "phone": "6046699030", 
+            "snippet_text": "First time in this location. Staff extremely friendly and not rushed at all.\nOnce they found out it was a birthday lunch they gave me a pudding treat...", 
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/4jCiYjhsSztrPsqbehHb8w/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/yiQBT7zofSdKmi6c4sllng/ms.jpg", 
+            "display_phone": "+1-604-669-9030", 
+            "rating_img_url_large": "https://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png", 
+            "id": "the-sandbar-seafood-restaurant-vancouver-2", 
+            "is_closed": false, 
+            "location": {
+                "city": "Vancouver", 
+                "display_address": [
+                    "1535 Johnston Street", 
+                    "Granville Island/False Creek", 
+                    "Vancouver, BC V6H 3R9", 
+                    "Canada"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Granville Island/False Creek"
+                ], 
+                "postal_code": "V6H 3R9", 
+                "country_code": "CA", 
+                "address": [
+                    "1535 Johnston Street"
+                ], 
+                "coordinate": {
+                    "latitude": 49.271949, 
+                    "longitude": -123.134623
+                }, 
+                "state_code": "BC"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/boulevard-kitchen-and-oyster-bar-vancouver?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 88, 
+            "name": "Boulevard Kitchen & Oyster Bar", 
+            "rating_img_url_small": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/boulevard-kitchen-and-oyster-bar-vancouver?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Seafood", 
+                    "seafood"
+                ], 
+                [
+                    "Steakhouses", 
+                    "steak"
+                ]
+            ], 
+            "phone": "6046422900", 
+            "snippet_text": "Classy joint right by the Sutton Hotel w/ good eats and good ambience. Indoor and patio sitting. We came for the Happy Hour specials (3-6pm) which included...", 
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/AUNMtI5cDEx9qO3g-S8zqA/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/NzRNczYZETsio1ItoIPBag/ms.jpg", 
+            "display_phone": "+1-604-642-2900", 
+            "rating_img_url_large": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "boulevard-kitchen-and-oyster-bar-vancouver", 
+            "is_closed": false, 
+            "location": {
+                "city": "Vancouver", 
+                "display_address": [
+                    "845 Burrard Street", 
+                    "Downtown", 
+                    "Vancouver, BC V6Z 2K7", 
+                    "Canada"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Downtown"
+                ], 
+                "postal_code": "V6Z 2K7", 
+                "country_code": "CA", 
+                "address": [
+                    "845 Burrard Street"
+                ], 
+                "coordinate": {
+                    "latitude": 49.2827182, 
+                    "longitude": -123.123884
+                }, 
+                "state_code": "BC"
+            }
+        }
+    ]
+}

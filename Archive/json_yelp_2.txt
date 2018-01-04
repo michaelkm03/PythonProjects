@@ -1,0 +1,1022 @@
+{
+    "region": {
+        "span": {
+            "latitude_delta": 0.09827389000000153, 
+            "longitude_delta": 0.1446384500000022
+        }, 
+        "center": {
+            "latitude": 34.07904365, 
+            "longitude": -118.29678695000001
+        }
+    }, 
+    "total": 1005, 
+    "businesses": [
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/everson-royce-bar-los-angeles-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 152, 
+            "name": "Everson Royce Bar", 
+            "rating_img_url_small": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/everson-royce-bar-los-angeles-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Bars", 
+                    "bars"
+                ]
+            ], 
+            "phone": "2133356166", 
+            "snippet_text": "Gawddddd love you ERB! Your drinks all have a certain taste to them (ginger? who knows) that aren't as good as drinks in other bars but your ambience is...", 
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Pwzdse-ROb9xhJ5ralttfw/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/HV2HmHU-qtK2xookdd5ekw/ms.jpg", 
+            "display_phone": "+1-213-335-6166", 
+            "rating_img_url_large": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "everson-royce-bar-los-angeles-2", 
+            "is_closed": false, 
+            "location": {
+                "city": "Los Angeles", 
+                "display_address": [
+                    "1936 E 7th St", 
+                    "Downtown", 
+                    "Los Angeles, CA 90021"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Downtown"
+                ], 
+                "postal_code": "90021", 
+                "country_code": "US", 
+                "address": [
+                    "1936 E 7th St"
+                ], 
+                "coordinate": {
+                    "latitude": 34.034294128418, 
+                    "longitude": -118.232574462891
+                }, 
+                "state_code": "CA"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/the-morrison-los-angeles?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 2334, 
+            "name": "The Morrison", 
+            "rating_img_url_small": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/the-morrison-los-angeles?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Bars", 
+                    "bars"
+                ], 
+                [
+                    "Gastropubs", 
+                    "gastropubs"
+                ], 
+                [
+                    "Burgers", 
+                    "burgers"
+                ]
+            ], 
+            "menu_date_updated": 1442109642, 
+            "phone": "3236671839", 
+            "snippet_text": "Friendly staff, clean. Food is excellent!\nnot a fan of the desserts. Too salty  =/ \nThey have a full bar as well.", 
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/06yTmg5R-r0IJyjrX-BhgQ/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/NJOKLDUo-vhu6-1XpXM5mA/ms.jpg", 
+            "display_phone": "+1-323-667-1839", 
+            "rating_img_url_large": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "menu_provider": "single_platform", 
+            "id": "the-morrison-los-angeles", 
+            "is_closed": false, 
+            "location": {
+                "city": "Los Angeles", 
+                "display_address": [
+                    "3179 Los Feliz Blvd", 
+                    "Atwater Village", 
+                    "Los Angeles, CA 90039"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Atwater Village"
+                ], 
+                "postal_code": "90039", 
+                "country_code": "US", 
+                "address": [
+                    "3179 Los Feliz Blvd"
+                ], 
+                "coordinate": {
+                    "latitude": 34.123814, 
+                    "longitude": -118.268692
+                }, 
+                "state_code": "CA"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/bar-jackalope-los-angeles?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 57, 
+            "name": "Bar Jackalope", 
+            "rating_img_url_small": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/bar-jackalope-los-angeles?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Lounges", 
+                    "lounges"
+                ]
+            ], 
+            "menu_date_updated": 1442202800, 
+            "phone": "2136140736", 
+            "snippet_text": "What a fantastic experience!! I went to the bar on a Thursday night with a couple of my friends and we had an unforgettable moment. It's like you are...", 
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/YjxH41IhNZViPdTn6rfxXg/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/h2nRKtxsjLsQn03yp4zf_A/ms.jpg", 
+            "display_phone": "+1-213-614-0736", 
+            "rating_img_url_large": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "menu_provider": "single_platform", 
+            "id": "bar-jackalope-los-angeles", 
+            "is_closed": false, 
+            "location": {
+                "city": "Los Angeles", 
+                "display_address": [
+                    "515 W. 7th St.", 
+                    "2nd Flr", 
+                    "Downtown", 
+                    "Los Angeles, CA 90014"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Downtown"
+                ], 
+                "postal_code": "90014", 
+                "country_code": "US", 
+                "address": [
+                    "515 W. 7th St.", 
+                    "2nd Flr"
+                ], 
+                "coordinate": {
+                    "latitude": 34.04711, 
+                    "longitude": -118.25581
+                }, 
+                "state_code": "CA"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/seven-grand-los-angeles?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 1647, 
+            "name": "Seven Grand", 
+            "rating_img_url_small": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/seven-grand-los-angeles?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Lounges", 
+                    "lounges"
+                ], 
+                [
+                    "Cocktail Bars", 
+                    "cocktailbars"
+                ]
+            ], 
+            "phone": "2136140736", 
+            "snippet_text": "This place is always filled with people even on a Sunday. The ambiance is very relaxed and casual. This place is perfect for anything. It's a whiskey bar...", 
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-wjrIa-s3XSZmRXLp-SfXA/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/wbhUNA0eLCyqPvPGAbFGNA/ms.jpg", 
+            "display_phone": "+1-213-614-0736", 
+            "rating_img_url_large": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "seven-grand-los-angeles", 
+            "is_closed": false, 
+            "location": {
+                "city": "Los Angeles", 
+                "display_address": [
+                    "515 W 7th St", 
+                    "2nd Fl", 
+                    "Downtown", 
+                    "Los Angeles, CA 90014"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Downtown"
+                ], 
+                "postal_code": "90014", 
+                "country_code": "US", 
+                "address": [
+                    "515 W 7th St", 
+                    "2nd Fl"
+                ], 
+                "coordinate": {
+                    "latitude": 34.0470431032537, 
+                    "longitude": -118.25592078836
+                }, 
+                "state_code": "CA"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/wolf-and-crane-bar-los-angeles?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 280, 
+            "name": "Wolf & Crane Bar", 
+            "rating_img_url_small": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/wolf-and-crane-bar-los-angeles?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Bars", 
+                    "bars"
+                ]
+            ], 
+            "phone": "2139358249", 
+            "snippet_text": "4.5 rating! I've always wanted to try this bar out but I never got the chance for some reason. Luckily, I had friends in town so we took them around Little...", 
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/c8bWDIM_HNpL2Jt0SvWHMA/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/7zVUajV92CgHtBYzenTpHA/ms.jpg", 
+            "display_phone": "+1-213-935-8249", 
+            "rating_img_url_large": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "wolf-and-crane-bar-los-angeles", 
+            "is_closed": false, 
+            "location": {
+                "city": "Los Angeles", 
+                "display_address": [
+                    "366 E 2nd St", 
+                    "Little Tokyo", 
+                    "Los Angeles, CA 90012"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Little Tokyo", 
+                    "Downtown"
+                ], 
+                "postal_code": "90012", 
+                "country_code": "US", 
+                "address": [
+                    "366 E 2nd St"
+                ], 
+                "coordinate": {
+                    "latitude": 34.0479536, 
+                    "longitude": -118.2397511
+                }, 
+                "state_code": "CA"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/tonys-saloon-los-angeles-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 207, 
+            "name": "Tony's Saloon", 
+            "rating_img_url_small": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/tonys-saloon-los-angeles-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Dive Bars", 
+                    "divebars"
+                ], 
+                [
+                    "Cocktail Bars", 
+                    "cocktailbars"
+                ]
+            ], 
+            "phone": "2136225523", 
+            "snippet_text": "We had just finished watching an intense play \" The Day Shall Declare it\" in LA's most amazing secret bar! So secret there is no address to check into on...", 
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/kNLG4lOxBXFuvfpmXzZ7Cw/ms.jpg", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/t1RXEM0kkCNRfYRLqc5fBQ/ms.jpg", 
+            "display_phone": "+1-213-622-5523", 
+            "rating_img_url_large": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "tonys-saloon-los-angeles-2", 
+            "is_closed": false, 
+            "location": {
+                "city": "Los Angeles", 
+                "display_address": [
+                    "2017 E 7th St", 
+                    "Downtown", 
+                    "Los Angeles, CA 90021"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Downtown", 
+                    "Arts District"
+                ], 
+                "postal_code": "90021", 
+                "country_code": "US", 
+                "address": [
+                    "2017 E 7th St"
+                ], 
+                "coordinate": {
+                    "latitude": 34.0348892, 
+                    "longitude": -118.2316284
+                }, 
+                "state_code": "CA"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/the-varnish-los-angeles-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 973, 
+            "name": "The Varnish", 
+            "rating_img_url_small": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/the-varnish-los-angeles-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Lounges", 
+                    "lounges"
+                ]
+            ], 
+            "phone": "2132657089", 
+            "snippet_text": "My friends been talking about how nice this place is forever. I finally had a chance to go. It is so nice. Lock and key is my fav spot to go to but now this...", 
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/PbCBtAvVFA3HtRzl2QOThw/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/3e-IRKUZ5ADk_-K_0F4VDQ/ms.jpg", 
+            "display_phone": "+1-213-265-7089", 
+            "rating_img_url_large": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "the-varnish-los-angeles-2", 
+            "is_closed": false, 
+            "location": {
+                "city": "Los Angeles", 
+                "display_address": [
+                    "118 E 6th St", 
+                    "Downtown", 
+                    "Los Angeles, CA 90014"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Downtown"
+                ], 
+                "postal_code": "90014", 
+                "country_code": "US", 
+                "address": [
+                    "118 E 6th St"
+                ], 
+                "coordinate": {
+                    "latitude": 34.044893158169, 
+                    "longitude": -118.24979702706999
+                }, 
+                "state_code": "CA"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 3.5, 
+            "mobile_url": "http://m.yelp.com/biz/far-bar-los-angeles-4?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png", 
+            "review_count": 1544, 
+            "name": "Far Bar", 
+            "rating_img_url_small": "https://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png", 
+            "url": "http://www.yelp.com/biz/far-bar-los-angeles-4?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Lounges", 
+                    "lounges"
+                ], 
+                [
+                    "Cocktail Bars", 
+                    "cocktailbars"
+                ], 
+                [
+                    "Asian Fusion", 
+                    "asianfusion"
+                ]
+            ], 
+            "menu_date_updated": 1464762085, 
+            "phone": "2136179990", 
+            "snippet_text": "What more can I add about the Far Bar that those that frequent here haven't stated already? I love making Little Tokyo an excursion whenever I want to...", 
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LDC2iH1wupwKEyuACeym4w/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/MDtbTHzIsMEou4GC6vuG9A/ms.jpg", 
+            "display_phone": "+1-213-617-9990", 
+            "rating_img_url_large": "https://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png", 
+            "menu_provider": "single_platform", 
+            "id": "far-bar-los-angeles-4", 
+            "is_closed": false, 
+            "location": {
+                "city": "Los Angeles", 
+                "display_address": [
+                    "347 E 1st St", 
+                    "Little Tokyo", 
+                    "Los Angeles, CA 90012"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Little Tokyo", 
+                    "Downtown"
+                ], 
+                "postal_code": "90012", 
+                "country_code": "US", 
+                "address": [
+                    "347 E 1st St"
+                ], 
+                "coordinate": {
+                    "latitude": 34.049732, 
+                    "longitude": -118.239448
+                }, 
+                "state_code": "CA"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/villains-tavern-los-angeles?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 1025, 
+            "name": "Villains Tavern", 
+            "rating_img_url_small": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/villains-tavern-los-angeles?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Cocktail Bars", 
+                    "cocktailbars"
+                ], 
+                [
+                    "Music Venues", 
+                    "musicvenues"
+                ], 
+                [
+                    "Burgers", 
+                    "burgers"
+                ]
+            ], 
+            "phone": "2136130766", 
+            "snippet_text": "Upside\n\n1. Cool bartenders\n2. Decent bar food\n3. Live music\n4. Fire tables outside (ooooh)\n5. Fresh drinks w delicious ingredients\n6. Clean place to pee\n7....", 
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/7z0d1kC5XouFXYUgk0W2yw/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/B2ZMdp0X5PQb1RjRwb9UUA/ms.jpg", 
+            "display_phone": "+1-213-613-0766", 
+            "rating_img_url_large": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "villains-tavern-los-angeles", 
+            "is_closed": false, 
+            "location": {
+                "city": "Los Angeles", 
+                "display_address": [
+                    "1356 Palmetto St", 
+                    "Downtown", 
+                    "Los Angeles, CA 90013"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Downtown", 
+                    "Arts District"
+                ], 
+                "postal_code": "90013", 
+                "country_code": "US", 
+                "address": [
+                    "1356 Palmetto St"
+                ], 
+                "coordinate": {
+                    "latitude": 34.0401668, 
+                    "longitude": -118.2310422
+                }, 
+                "state_code": "CA"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/wendell-los-angeles?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 85, 
+            "name": "Wendell", 
+            "rating_img_url_small": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/wendell-los-angeles?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Bars", 
+                    "bars"
+                ]
+            ], 
+            "menu_date_updated": 1465009363, 
+            "phone": "2136227200", 
+            "snippet_text": "This is a bar meant for people who enjoy the feel of a dive...MINUS the drunk men falling asleep in corners, that one regular who sings his hearts out to...", 
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Gx8ynXlp84M7g17VJr2RPQ/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/MzIbQy_cqT9QgIob38CCTA/ms.jpg", 
+            "display_phone": "+1-213-622-7200", 
+            "rating_img_url_large": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "menu_provider": "single_platform", 
+            "id": "wendell-los-angeles", 
+            "is_closed": false, 
+            "location": {
+                "city": "Los Angeles", 
+                "display_address": [
+                    "656 S Main St", 
+                    "Downtown", 
+                    "Los Angeles, CA 90014"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Downtown"
+                ], 
+                "postal_code": "90014", 
+                "country_code": "US", 
+                "address": [
+                    "656 S Main St"
+                ], 
+                "coordinate": {
+                    "latitude": 34.0439891215131, 
+                    "longitude": -118.251085259524
+                }, 
+                "state_code": "CA"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 3.5, 
+            "mobile_url": "http://m.yelp.com/biz/caseys-irish-pub-los-angeles-3?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png", 
+            "review_count": 631, 
+            "name": "Casey's Irish Pub", 
+            "rating_img_url_small": "https://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png", 
+            "url": "http://www.yelp.com/biz/caseys-irish-pub-los-angeles-3?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Pubs", 
+                    "pubs"
+                ], 
+                [
+                    "Sports Bars", 
+                    "sportsbars"
+                ], 
+                [
+                    "Irish", 
+                    "irish"
+                ]
+            ], 
+            "menu_date_updated": 1441914190, 
+            "phone": "2136292353", 
+            "snippet_text": "This 5 star review is SOLEY FOR THE PICKLE BACKs. Holy hell the pickle backs they give you with Jameson shots is freaking amazing. That's all I have to say...", 
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/y4hs97GVDhyqGS8yCd0Utg/ms.jpg", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/o0dGy-7FJ4AmQyPiFOoh0Q/ms.jpg", 
+            "display_phone": "+1-213-629-2353", 
+            "rating_img_url_large": "https://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png", 
+            "menu_provider": "single_platform", 
+            "id": "caseys-irish-pub-los-angeles-3", 
+            "is_closed": false, 
+            "location": {
+                "city": "Los Angeles", 
+                "display_address": [
+                    "613 S Grand Ave", 
+                    "Downtown", 
+                    "Los Angeles, CA 90017"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Downtown"
+                ], 
+                "postal_code": "90017", 
+                "country_code": "US", 
+                "address": [
+                    "613 S Grand Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 34.048458205004, 
+                    "longitude": -118.25575420061
+                }, 
+                "state_code": "CA"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/the-virgil-los-angeles?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 206, 
+            "name": "The Virgil", 
+            "rating_img_url_small": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/the-virgil-los-angeles?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Lounges", 
+                    "lounges"
+                ]
+            ], 
+            "phone": "3236604540", 
+            "snippet_text": "The Virgil is your no frills, good music, good times type of situation. The few times I've gone, I have really enjoyed the mix of music. I heard some new...", 
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/_XzSZUDMrHtI6YJqdrV6CA/ms.jpg", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/HxWKhhngBESXZ9qHq3P0KQ/ms.jpg", 
+            "display_phone": "+1-323-660-4540", 
+            "rating_img_url_large": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "the-virgil-los-angeles", 
+            "is_closed": false, 
+            "location": {
+                "city": "Los Angeles", 
+                "display_address": [
+                    "4519 Santa Monica Blvd", 
+                    "East Hollywood", 
+                    "Los Angeles, CA 90029"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "East Hollywood"
+                ], 
+                "postal_code": "90029", 
+                "country_code": "US", 
+                "address": [
+                    "4519 Santa Monica Blvd"
+                ], 
+                "coordinate": {
+                    "latitude": 34.0910492, 
+                    "longitude": -118.2870331
+                }, 
+                "state_code": "CA"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/hms-bounty-los-angeles?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 442, 
+            "name": "HMS Bounty", 
+            "rating_img_url_small": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/hms-bounty-los-angeles?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Bars", 
+                    "bars"
+                ], 
+                [
+                    "American (Traditional)", 
+                    "tradamerican"
+                ]
+            ], 
+            "phone": "2133857275", 
+            "snippet_text": "Cool, old-timey bar. Really nice staff and the clientele are nice people, too. \n\nDrinks were strong, yay! \n\nParking situation sucks, but what can you do.", 
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/t9UDAx1EOIeMqzAWw9Vc6A/ms.jpg", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/JMQPiU-1KyfZYNTmU6LPWg/ms.jpg", 
+            "display_phone": "+1-213-385-7275", 
+            "rating_img_url_large": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "hms-bounty-los-angeles", 
+            "is_closed": false, 
+            "location": {
+                "city": "Los Angeles", 
+                "display_address": [
+                    "3357 Wilshire Blvd", 
+                    "Koreatown", 
+                    "Los Angeles, CA 90010"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Koreatown", 
+                    "Wilshire Center"
+                ], 
+                "postal_code": "90010", 
+                "country_code": "US", 
+                "address": [
+                    "3357 Wilshire Blvd"
+                ], 
+                "coordinate": {
+                    "latitude": 34.0619049, 
+                    "longitude": -118.29696
+                }, 
+                "state_code": "CA"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/now-boarding-los-angeles-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 114, 
+            "name": "Now Boarding", 
+            "rating_img_url_small": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/now-boarding-los-angeles-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Cocktail Bars", 
+                    "cocktailbars"
+                ]
+            ], 
+            "phone": "3238488447", 
+            "snippet_text": "I absolutely love this bar. \nI don't know where to begin.\n\nStarting with the decor, it's fabulous. The bar is themed like an airport lounge with menus that...", 
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/vvAW493VyW7qLz6jzPQMSQ/ms.jpg", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/IssHiecBdY72gtR_1Eywtw/ms.jpg", 
+            "display_phone": "+1-323-848-8447", 
+            "rating_img_url_large": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "id": "now-boarding-los-angeles-2", 
+            "is_closed": false, 
+            "location": {
+                "city": "Los Angeles", 
+                "display_address": [
+                    "7746 Santa Monica Blvd", 
+                    "West Hollywood", 
+                    "Los Angeles, CA 90046"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "West Hollywood"
+                ], 
+                "postal_code": "90046", 
+                "country_code": "US", 
+                "address": [
+                    "7746 Santa Monica Blvd"
+                ], 
+                "coordinate": {
+                    "latitude": 34.0905265808105, 
+                    "longitude": -118.35814666748
+                }, 
+                "state_code": "CA"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/thirsty-crow-los-angeles?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 605, 
+            "name": "Thirsty Crow", 
+            "rating_img_url_small": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/thirsty-crow-los-angeles?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Bars", 
+                    "bars"
+                ]
+            ], 
+            "phone": "3236616007", 
+            "snippet_text": "I love the Thirsty Crow! I've been here more than a few times and it's always been a good time! They have great drink specials like 2 for 1 Tuesdays or...", 
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/eS0QZ1_8SA1zJUt17HF_jA/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/8_ezBck_cP5FomM3L__cjA/ms.jpg", 
+            "display_phone": "+1-323-661-6007", 
+            "rating_img_url_large": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "thirsty-crow-los-angeles", 
+            "is_closed": false, 
+            "location": {
+                "city": "Los Angeles", 
+                "display_address": [
+                    "2939 W Sunset Blvd", 
+                    "Silver Lake", 
+                    "Los Angeles, CA 90026"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Silver Lake"
+                ], 
+                "postal_code": "90026", 
+                "country_code": "US", 
+                "address": [
+                    "2939 W Sunset Blvd"
+                ], 
+                "coordinate": {
+                    "latitude": 34.083794, 
+                    "longitude": -118.273689
+                }, 
+                "state_code": "CA"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.5, 
+            "mobile_url": "http://m.yelp.com/biz/ball-and-chain-los-angeles?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+            "review_count": 285, 
+            "name": "Ball & Chain", 
+            "rating_img_url_small": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+            "url": "http://www.yelp.com/biz/ball-and-chain-los-angeles?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Bars", 
+                    "bars"
+                ], 
+                [
+                    "American (New)", 
+                    "newamerican"
+                ]
+            ], 
+            "menu_date_updated": 1464473705, 
+            "phone": "3234652255", 
+            "snippet_text": "Best sliders I've ever had. Ever. \n\nBeer selection is above average and the atmosphere is cute. Kind of feels like you're at a subway station, in a good way.", 
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/o00BNUz0wh-ueAu0Aa3iuA/ms.jpg", 
+            "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/z6Yt7IoST11kXt0EASdbIw/ms.jpg", 
+            "display_phone": "+1-323-465-2255", 
+            "rating_img_url_large": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+            "menu_provider": "eat24", 
+            "id": "ball-and-chain-los-angeles", 
+            "is_closed": false, 
+            "location": {
+                "city": "Los Angeles", 
+                "display_address": [
+                    "1643 N Cahuenga Blvd", 
+                    "Hollywood", 
+                    "Los Angeles, CA 90028"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Hollywood"
+                ], 
+                "postal_code": "90028", 
+                "country_code": "US", 
+                "address": [
+                    "1643 N Cahuenga Blvd"
+                ], 
+                "coordinate": {
+                    "latitude": 34.1009859786262, 
+                    "longitude": -118.329788337188
+                }, 
+                "state_code": "CA"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/4100-bar-los-angeles?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 473, 
+            "name": "4100 Bar", 
+            "rating_img_url_small": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/4100-bar-los-angeles?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Dive Bars", 
+                    "divebars"
+                ], 
+                [
+                    "Cocktail Bars", 
+                    "cocktailbars"
+                ]
+            ], 
+            "phone": "3236664460", 
+            "snippet_text": "Upon hearing a lot about this bar, I decided to finally check it out. While talking to locals, I was told that this bar has changed substantially in the...", 
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Fw8zg-DS1JJuObHoY8kdJA/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/RjDa9W4hnbW44dVUFzW5LA/ms.jpg", 
+            "display_phone": "+1-323-666-4460", 
+            "rating_img_url_large": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "4100-bar-los-angeles", 
+            "is_closed": false, 
+            "location": {
+                "city": "Los Angeles", 
+                "display_address": [
+                    "1087 Manzanita St", 
+                    "Silver Lake", 
+                    "Los Angeles, CA 90029"
+                ], 
+                "geo_accuracy": 9.5, 
+                "neighborhoods": [
+                    "Silver Lake"
+                ], 
+                "postal_code": "90029", 
+                "country_code": "US", 
+                "address": [
+                    "1087 Manzanita St"
+                ], 
+                "coordinate": {
+                    "latitude": 34.092885676512, 
+                    "longitude": -118.281318144806
+                }, 
+                "state_code": "CA"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/tom-bergins-public-house-los-angeles?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 428, 
+            "name": "Tom Bergin's Public House", 
+            "rating_img_url_small": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/tom-bergins-public-house-los-angeles?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Sports Bars", 
+                    "sportsbars"
+                ], 
+                [
+                    "Irish Pub", 
+                    "irish_pubs"
+                ], 
+                [
+                    "Irish", 
+                    "irish"
+                ]
+            ], 
+            "menu_date_updated": 1460640703, 
+            "phone": "3239367151", 
+            "snippet_text": "I really enjoyed both the atmosphere and food at Tom Bergin's! The horse decor is definitely pervasive throughout the restaurant, but with great food and an...", 
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Z2_tRPaM5fV_B7O8JVwleQ/ms.jpg", 
+            "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/NVI8ohZ-o68vF2BqYU3HEg/ms.jpg", 
+            "display_phone": "+1-323-936-7151", 
+            "rating_img_url_large": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "menu_provider": "single_platform", 
+            "id": "tom-bergins-public-house-los-angeles", 
+            "is_closed": false, 
+            "location": {
+                "city": "Los Angeles", 
+                "display_address": [
+                    "840 S Fairfax Ave", 
+                    "Mid-Wilshire", 
+                    "Los Angeles, CA 90036"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Mid-Wilshire"
+                ], 
+                "postal_code": "90036", 
+                "country_code": "US", 
+                "address": [
+                    "840 S Fairfax Ave"
+                ], 
+                "coordinate": {
+                    "latitude": 34.06007, 
+                    "longitude": -118.3625
+                }, 
+                "state_code": "CA"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 3.5, 
+            "mobile_url": "http://m.yelp.com/biz/the-association-los-angeles-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media1.fl.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png", 
+            "review_count": 804, 
+            "name": "The Association", 
+            "rating_img_url_small": "https://s3-media1.fl.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png", 
+            "url": "http://www.yelp.com/biz/the-association-los-angeles-2?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Lounges", 
+                    "lounges"
+                ], 
+                [
+                    "Cocktail Bars", 
+                    "cocktailbars"
+                ]
+            ], 
+            "phone": "8666874499", 
+            "snippet_text": "Accidentally stumbled in here while trying to find Varnish (right next door at Cole's - I am an idiot) and was pleasantly surprised. \nCompared to the quiet,...", 
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/sUHl8u9JCUOlgr5V1cMEJw/ms.jpg", 
+            "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/raMmPmy_aJYpiEsxhwEOIQ/ms.jpg", 
+            "display_phone": "+1-866-687-4499", 
+            "rating_img_url_large": "https://s3-media3.fl.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png", 
+            "id": "the-association-los-angeles-2", 
+            "is_closed": false, 
+            "location": {
+                "city": "Los Angeles", 
+                "display_address": [
+                    "110 E 6th St", 
+                    "Downtown", 
+                    "Los Angeles, CA 90014"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Downtown"
+                ], 
+                "postal_code": "90014", 
+                "country_code": "US", 
+                "address": [
+                    "110 E 6th St"
+                ], 
+                "coordinate": {
+                    "latitude": 34.0450503, 
+                    "longitude": -118.2498806
+                }, 
+                "state_code": "CA"
+            }
+        }, 
+        {
+            "is_claimed": true, 
+            "rating": 4.0, 
+            "mobile_url": "http://m.yelp.com/biz/sassafras-los-angeles?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "rating_img_url": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+            "review_count": 476, 
+            "name": "Sassafras", 
+            "rating_img_url_small": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+            "url": "http://www.yelp.com/biz/sassafras-los-angeles?utm_campaign=yelp_api&utm_medium=api_v2_search&utm_source=y_9B39YLVS8DHy2eOkaDwg", 
+            "categories": [
+                [
+                    "Cocktail Bars", 
+                    "cocktailbars"
+                ]
+            ], 
+            "phone": "3234672800", 
+            "snippet_text": "I travel with some frequency, and it's always a pleasure to fall into a hip comfortable surrounding.  The rather large gent at the door didn't warm to me at...", 
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/CQFuvkWVFZn1ADIHwiZNIA/ms.jpg", 
+            "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/7kecNH6gaSO1AS5-6OSluQ/ms.jpg", 
+            "display_phone": "+1-323-467-2800", 
+            "rating_img_url_large": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+            "id": "sassafras-los-angeles", 
+            "is_closed": false, 
+            "location": {
+                "city": "Los Angeles", 
+                "display_address": [
+                    "1233 N Vine St", 
+                    "Hollywood", 
+                    "Los Angeles, CA 90038"
+                ], 
+                "geo_accuracy": 8.0, 
+                "neighborhoods": [
+                    "Hollywood"
+                ], 
+                "postal_code": "90038", 
+                "country_code": "US", 
+                "address": [
+                    "1233 N Vine St"
+                ], 
+                "coordinate": {
+                    "latitude": 34.0936403, 
+                    "longitude": -118.3267549
+                }, 
+                "state_code": "CA"
+            }
+        }
+    ]
+}

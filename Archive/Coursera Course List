@@ -1,0 +1,53 @@
+import urllib
+import json
+
+print '----------------------------------------'
+print 'Type COURSES for courses offered'
+print 'Type PARTNERS for courses offered'
+print '----------------------------------------'
+
+_user_selection = raw_input('What do you want to see?:  ')
+
+if _user_selection == 'COURSES':
+    _url = 'https://api.coursera.org/api/courses.v1'
+    response = urllib.urlopen(_url)
+    data = response.read()
+    json = json.loads(data)
+elif _user_selection == 'PARTNERS':
+    _url = 'https://api.coursera.org/api/partners.v1'
+    response = urllib.urlopen(_url)
+    data = response.read()
+    json = json.loads(data)
+else:
+    print 'NOT A VALID SELECTION, PLEASE RESTART -_-'
+    print ''
+    print ''
+# count for selection, running total
+n=1
+if _user_selection == 'COURSES':
+    for i in json['elements']:
+        print 'SELECTION #',n
+        course_name = i['name']
+        id = i['id']
+        category = i['courseType']
+        n = n + 1
+        print
+        print '[COURSE NAME:  ',course_name,']'
+        print ' >>> [ID:  ',id,' | ',category,']'
+        print ''
+        print'----------------------------------------'
+    #subtracting to compenstate for numbering starting at 1, instead of 0
+    n = n-1
+    print 'Displaying',n,'number of courses'
+else:
+    for i in json['elements']:
+        print 'SELECTION #', n
+        print ''
+        partner = i['name']
+        print 'COLLEGE:  ',partner
+        n = n + 1
+        print ''
+        print'----------------------------------------'
+    # subtracting to compenstate for numbering starting at 1, instead of 0
+    n = n - 1
+    print 'Displaying', n, 'number of partners'

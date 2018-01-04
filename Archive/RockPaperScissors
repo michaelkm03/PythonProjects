@@ -1,0 +1,82 @@
+import random
+
+space = ' '
+print 'TIME TO PLAY!'
+print space
+print '(R) Rock ---------- (P) Paper ---------- (S) Scissors'
+print space
+
+player_name = raw_input('Player, Enter Your Name: ')
+print ' '
+score = [0,0]
+while True:
+    print 'Score: ',score
+    print space
+    print '     ',player_name,"vs. the Computer"
+    print '           _____________________'
+    print space
+    choice = raw_input('What is your choice: ')
+    if choice == 'R' or choice == 'r' or choice == 'rock' or choice == 'Rock' :
+        player_choice_num = 1
+        break
+    elif choice == 'P' or choice == 'p' or choice == 'paper' or choice == 'Paper' :
+        player_choice_num = 2
+        break
+    elif choice == 'S' or choice == 's' or choice == 'scissors' or choice == 'Scissors' :
+        player_choice_num = 3
+        break
+    else:
+        print 'This is not an option, please try again'
+        continue
+
+#Random choice by Computer, using random lib
+comp_choices = [1,2,3]
+comp_selection = random.choice(comp_choices)
+if comp_selection == player_choice_num:
+    if comp_selection == 1:
+        comp_selection = 'Rock'
+    elif comp_selection == 2:
+        comp_selection = 'Paper'
+    else:
+        comp_selection = 'Scissors'
+    print space
+    print 'The Computer chooses...',comp_selection,'!!!'
+    print space
+    print "DRAW!"
+    score[0] = score[0]
+    score[1] = score[1]
+    print space
+    print score
+elif (comp_selection == 1 and player_choice_num == 2) or (comp_selection == 2 and player_choice_num == 3) or (comp_selection == 3 and player_choice_num == 1):
+    if comp_selection == 1:
+        comp_selection = 'Rock'
+    elif comp_selection == 2:
+        comp_selection = 'Paper'
+    else:
+        comp_selection = 'Scissors'
+    print 'The Computer chooses...',comp_selection
+    print "YOU WIN!"
+    score[0] = score[0] + 1
+    print score
+else:
+    (comp_selection == 1 and player_choice_num == 3) or (comp_selection == 2 and player_choice_num == 1) or (comp_selection == 3 and player_choice_num == 2)
+    if comp_selection == 1:
+        comp_selection = 'Rock'
+    elif comp_selection == 2:
+        comp_selection = 'Paper'
+    else:
+        comp_selection = 'Scissors'
+    print 'The Computer chooses...',comp_selection
+    print "YOU LOSE :("
+    score[1] = score[1] + 1
+    print score
+
+while True:
+    print 'Yes','----------''No'
+    next_round = raw_input('Play Another Round?  ')
+    if next_round =='Yes':
+        break
+    elif next_round == 'No':
+        break
+    else:
+        print 'Sorry, invalid response'

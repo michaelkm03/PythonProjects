@@ -1,0 +1,15 @@
+import urllib
+import json
+
+url = 'http://python-data.dr-chuck.net/comments_266220.json'
+
+response = urllib.urlopen(url)
+data = response.read()
+json_data = json.loads(data)
+
+for comment in json_data['comments']:
+    name = comment['name']
+    count = comment['count']
+    print''
+    print ' Name:  ',name
+    print 'Count:  ',count

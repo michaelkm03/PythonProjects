@@ -1,0 +1,46 @@
+# import socket
+# mysock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+# mysock.connect(('www.py4inf.com',80))
+#
+# mysock.send('GET http://www.py4inf.com/code/romeo.txt HTTP/1.0\n\n')
+#
+# while True:
+#     data = mysock.recv(512)
+#     if ( len(data)<1):
+#         break
+#     print data
+# mysock.clost()
+
+
+
+# import urllib
+# fhand = urllib.urlopen('http://www.py4inf.com/code/romeo.txt')
+#
+# # for line in fhand:
+# #     print line.strip()
+#
+# counts = dict()
+# for line in fhand:
+#     words = line.split()
+#     for word in words:
+#         counts[word] = counts.get(word,0) + 1
+#     print counts
+
+
+aDict = {}
+x = int(raw_input('How many students are in your class?  '))
+i = 1
+while i <= x:
+    user_name = raw_input('Enter your name:  ')
+    user_age = raw_input('Enter your age:  ')
+    aDict[user_name] = user_age
+    i = i + 1
+
+print ''
+print ''
+print '----- CLASSROOM LIST (SORTED BY FIRST NAME)-----'
+print ''
+for user_name,user_age in aDict.iteritems() :
+    sorted(aDict)
+    print user_name,'is',user_age,'years old'
+print '--------------------------------------------'

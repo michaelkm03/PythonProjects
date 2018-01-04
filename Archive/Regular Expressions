@@ -1,0 +1,28 @@
+import re
+
+# x='Michael is 2 years old and Bob is 400'
+# y=re.findall('[0-9]+',x)
+# print y
+
+# email = 'From michaelkm03@gmail.com Friday August 1st 2015'
+# y = re.findall('^From (\S+@\S+)',email)
+# print y
+
+x = 'From michaelkm03@gmail.com Friday August 1st 2015'
+y = re.findall('@([^ ]*)',x)
+print y
+
+# hand = open('mbox-short.txt')
+# numlist = list()
+# for line in hand:
+#     line = line.rstrip()
+#     stuff = re.findall('^X-DSPAM-Confidence: ([0-9.]+)',line)
+#     if len(stuff) !=1: continue
+#     num = float(stuff[0])
+#     numlist.append(num)
+# print numlist
+
+
+# handle = open('unicorn.cer')
+# text = handle.read()
+# print text
