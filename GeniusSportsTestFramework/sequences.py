@@ -1,6 +1,6 @@
 import json
 
-class JSON:
+class Sequences:
 
     def __init__(self):
         with open("5104402.json") as file:
@@ -12,31 +12,41 @@ class JSON:
         elements = []
         for key in self.sequence.iteritems():
             elements.append(key)
-            print key
         return elements
 
     def get_sequencesByType(self, sequence_type):
+        # Get all sequences matching sequence_type param; returns list of sequence ids that match
         list_of_ids = []
         for self.sequence in self.sequences:
             if self.sequence is not None:
                 if self.sequence['Type'] == sequence_type:
                     list_of_ids.append(self.sequence['SequenceId'])
-        print 'Found ' + str(list_of_ids.__len__()) + ' sequences of type ' + sequence_type
+        # print 'Found ' + str(list_of_ids.__len__()) + ' sequences of type ' + sequence_type
         return list_of_ids
 
     def get_sequencesGameEvent(self):
-        list_of_ids = []
+        # Return list of GameEvent maps for each in self.sequence
         list_of_events = []
         for self.sequence in self.sequences:
             if self.sequence is not None:
                 if self.sequence['GameEvent']:
-                    list_of_ids.append(self.sequence['SequenceId'])
                     list_of_events.append(self.sequence['GameEvent'])
-        print 'Found ' + str(list_of_ids.__len__()) + ' sequences with GameEvent data'
+       # print 'Found ' + str(list_of_events.__len__()) + ' sequences with GameEvent data'
         return list_of_events
 
+    def display(self):
+        for index in self.sequences:
+            if index is not None:
+                print '* ------------------------------------------------------- *'
+                print 'Sequence ID:          ' + str(index['SequenceId'])
+                print 'Fixture ID:           ' + str(index['FixtureId'])
+                print 'Game Event (count):   ' + str(len(index['GameEvent']))
+                print 'Source:               ' + str(index['Source'])
+                print 'Type:                 ' + str(index['Type'])
+
 if __name__ == '__main__':
-    j = JSON()
-    j.get_sequenceById(334)
-    j.get_sequencesByType('DangerStateAddedDto')
-    j.get_sequencesGameEvent()
+    s = Sequences()
+    s.get_sequenceById(334)
+    s.get_sequencesByType('DangerStateAddedDto')
+    s.get_sequencesGameEvent()
+    s.display()
