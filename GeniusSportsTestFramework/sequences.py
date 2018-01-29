@@ -3,7 +3,7 @@ import json
 class Sequences:
 
     def __init__(self):
-        with open("5104402.json") as file:
+        with open("4825925.json") as file:
             self.sequences = json.load(file)
 
     def get_sequenceById(self, sequence_id):
@@ -46,7 +46,7 @@ class Sequences:
 
 if __name__ == '__main__':
     s = Sequences()
-    s.get_sequenceById(334)
+    s.get_sequenceById(33)
     s.get_sequencesByType('DangerStateAddedDto')
     s.get_sequencesGameEvent()
-    s.display()
+    # s.display()
